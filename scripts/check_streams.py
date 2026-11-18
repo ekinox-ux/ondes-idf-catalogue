@@ -1,6 +1,9 @@
 """Vérification nocturne des flux de stations.json (lancé par GitHub Actions).
 
 Pour chaque flux : on le sonde, on met à jour ok / lastChecked / codec / débit.
+Un flux qui échoue est ressayé aussitôt, puis compté dans "fails" : il ne passe à
+ok=false (et disparaît de l'application) qu'après MAX_FAILS nuits d'échec d'affilée,
+pour qu'une coupure passagère ou un blocage ponctuel ne retire pas une radio.
 Pour une station dont plus aucun flux ne répond, ou qui n'a aucun flux : on relance
 la recherche complète (build_catalog.build_station) pour trouver un remplaçant.
 Écrit un rapport lisible dans report.md.
@@ -11,6 +14,7 @@ from __future__ import annotations
 
 import json
 import sys
+import time
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
@@ -19,13 +23,24 @@ from catalog_lib import SCHEMA_VERSION, now_iso, probe, quality_of, stream_rank
 
 ROOT = Path(__file__).resolve().parent.parent
 REPORT = ROOT / "report.md"
+MAX_FAILS = 3   # nuits d'échec consécutives avant de déclarer un flux mort
+RETRY_DELAY = 5  # secondes avant le second essai
 
 
 def recheck(stream: dict) -> dict:
     info = probe(stream["url"])
+    if not info.get("ok"):
+        time.sleep(RETRY_DELAY)
+        info = probe(stream["url"])
     s = dict(stream)
-    s["ok"] = bool(info.get("ok"))
     s["lastChecked"] = now_iso()
+    if not info.get("ok"):
+        s["fails"] = s.get("fails", 0) + 1
+        # un flux déjà mort le reste ; un flux vivant a droit à MAX_FAILS - 1 échecs
+        s["ok"] = bool(stream.get("ok", True)) and s["fails"] < MAX_FAILS
+        return s
+    s["ok"] = True
+    s.pop("fails", None)
     if s["ok"]:
         s["codec"] = info.get("codec") or s.get("codec")
         s["bitrate"] = info.get("bitrate") or s.get("bitrate")
@@ -79,12 +94,14 @@ def main() -> int:
 
     total = len(stations)
     alive = sum(1 for s in stations if any(f["ok"] for f in s["streams"]))
-    streams_ok = sum(1 for s in checked if s["ok"])
+    streams_ok = sum(1 for s in checked if s["ok"] and not s.get("fails"))
+    flaky = sorted({st["id"] for st in stations for f in st["streams"] if f.get("fails") and f["ok"]})
     lines = [
         f"# Rapport de vérification — {now_iso()}",
         "",
         f"- Stations jouables : **{alive}/{total}**",
         f"- Flux testés : {len(checked)}, valides : {streams_ok}",
+        f"- En échec mais conservés (moins de {MAX_FAILS} nuits) : {', '.join(flaky) or 'aucun'}",
         f"- Réparées automatiquement : {', '.join(repaired) or 'aucune'}",
         f"- Ajoutées depuis la seed : {', '.join(added) or 'aucune'}",
         f"- Sans flux : {', '.join(dead) or 'aucune'}",
@@ -98,7 +115,7 @@ def main() -> int:
         desc = f"{best['codec'] or '?'} {best['bitrate'] or '?'}k" if best else "—"
         lines.append(f"| {st['name']} | {len(ok)}/{len(st['streams'])} | {desc} |")
     REPORT.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    print("\n".join(lines[:7]))
+    print("\n".join(lines[:8]))
     return 0
 
 

@@ -1,10 +1,11 @@
-# Rapport de vérification — 2026-11-18T17:09:46Z
+# Rapport de vérification — 2026-11-18T17:11:01Z
 
-- Stations jouables : **96/107**
-- Flux testés : 144, valides : 143
+- Stations jouables : **97/107**
+- Flux testés : 144, valides : 144
+- En échec mais conservés (moins de 3 nuits) : aucun
 - Réparées automatiquement : aucune
 - Ajoutées depuis la seed : aucune
-- Sans flux : live-festival, vivre-fm, frequence-india, radio-ter, aasman, pi-mg, judaiques-fm, tek-radio, paname, trace-radio, hitmix
+- Sans flux : live-festival, frequence-india, radio-ter, aasman, pi-mg, judaiques-fm, tek-radio, paname, trace-radio, hitmix
 
 | Station | Flux OK | Meilleur flux |
 |---|---|---|
@@ -61,7 +62,7 @@
 | Ado | 1/1 | MP3 128k |
 | Crooner Radio | 1/1 | MP3 128k |
 | Live Festival Radio | 0/0 | — |
-| Vivre FM | 0/1 | — |
+| Vivre FM | 1/1 | MP3 128k |
 | Virgin Radio | 1/1 | HE-AAC 64k |
 | Antinéa Radio | 1/1 | MP3 128k |
 | Euradio | 1/1 | MP3 256k |

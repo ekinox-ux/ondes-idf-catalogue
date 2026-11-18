@@ -9,7 +9,7 @@ Catalogue utilisé par l'application Android **Ondes IDF**. L'application télé
 | `stations.json` | Catalogue généré : flux vérifiés, codec, débit, logo. **Ne pas éditer à la main.** |
 | `report.md` | Rapport de la dernière vérification |
 | `scripts/build_catalog.py` | Reconstruit tout ou partie du catalogue (Radio France + radio-browser.info) |
-| `scripts/check_streams.py` | Vérification nocturne, réparation automatique des flux morts |
+| `scripts/check_streams.py` | Vérification nocturne, réparation automatique des flux morts. Un flux n'est retiré (`ok: false`) qu'après 3 nuits d'échec d'affilée (champ `fails`) |
 
 ## Ajouter ou corriger une radio
 
