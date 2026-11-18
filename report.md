@@ -1,10 +1,10 @@
-# Rapport de vérification — 2026-11-18T15:47:51Z
+# Rapport de vérification — 2026-11-18T16:58:52Z
 
-- Stations jouables : **81/107**
-- Flux testés : 125, valides : 125
+- Stations jouables : **80/107**
+- Flux testés : 125, valides : 124
 - Réparées automatiquement : aucune
 - Ajoutées depuis la seed : aucune
-- Sans flux : rire-et-chansons, fg-dance, melody, live-festival, antinea, mbs, radio-maria, aligre-fm, cause-commune, frequence-india, onde-porteuse, rme, radio-ter, aasman, idfm-enghien, pi-mg, radio-j, radio-shalom, judaiques-fm, tek-radio, figaro-radio, paname, radio-life, sequence-radio, trace-radio, hitmix
+- Sans flux : rire-et-chansons, fg-dance, melody, live-festival, vivre-fm, antinea, mbs, radio-maria, aligre-fm, cause-commune, frequence-india, onde-porteuse, rme, radio-ter, aasman, idfm-enghien, pi-mg, radio-j, radio-shalom, judaiques-fm, tek-radio, figaro-radio, paname, radio-life, sequence-radio, trace-radio, hitmix
 
 | Station | Flux OK | Meilleur flux |
 |---|---|---|
@@ -61,7 +61,7 @@
 | Ado | 1/1 | MP3 128k |
 | Crooner Radio | 1/1 | MP3 128k |
 | Live Festival Radio | 0/0 | — |
-| Vivre FM | 1/1 | MP3 128k |
+| Vivre FM | 0/1 | — |
 | Virgin Radio | 1/1 | HE-AAC 64k |
 | Antinéa Radio | 0/0 | — |
 | Euradio | 1/1 | MP3 256k |
