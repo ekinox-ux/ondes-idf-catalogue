@@ -11,6 +11,11 @@ on:
 permissions:
   contents: write
 
+# une seule vérification à la fois : deux exécutions simultanées se disputeraient le push
+concurrency:
+  group: verification-flux
+  cancel-in-progress: false
+
 jobs:
   check:
     runs-on: ubuntu-latest
@@ -31,5 +36,7 @@ jobs:
             echo "Aucun changement."
           else
             git commit -m "Vérification automatique des flux"
+            # un commit (seed modifiée) a pu arriver pendant la vérification
+            git pull --rebase --autostash
             git push
           fi
