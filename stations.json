@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-18T17:13:13Z",
+ "generatedAt": "2026-11-18T18:05:09Z",
  "stations": [
   {
    "id": "france-inter",
@@ -472,7 +472,7 @@
    "type": "nationale",
    "group": "France Médias Monde",
    "web": null,
-   "logo": null,
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/MonteCarloDoualiya_2013.svg?width=512",
    "rfApi": null,
    "rbUuid": null,
    "streams": [
@@ -484,7 +484,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:47Z"
+     "lastChecked": "2026-11-18T18:04:55Z"
     }
    ]
   },
@@ -1188,7 +1188,7 @@
    "type": "locale",
    "group": "Indés",
    "web": "https://www.tsfjazz.com",
-   "logo": null,
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/TSFJazz-2017.jpg?width=512",
    "rfApi": null,
    "rbUuid": "1b4afcc2-6630-4557-b6f1-23efa84880c3",
    "streams": [
@@ -1200,7 +1200,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:50Z"
+     "lastChecked": "2026-11-18T18:04:54Z"
     }
    ]
   },
@@ -1243,7 +1243,7 @@
    "type": "locale",
    "group": "FG",
    "web": "https://www.radiofg.com",
-   "logo": null,
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_radio-fg-2019.svg?width=512",
    "rfApi": null,
    "rbUuid": null,
    "streams": [
@@ -1255,7 +1255,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:50Z"
+     "lastChecked": "2026-11-18T18:04:55Z"
     },
     {
      "url": "https://radiofg.impek.com/fg",
@@ -1265,7 +1265,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:50Z"
+     "lastChecked": "2026-11-18T18:04:57Z"
     }
    ]
   },
@@ -1281,7 +1281,7 @@
    "type": "locale",
    "group": "FG",
    "web": "https://www.radiofg.com/fgchic",
-   "logo": null,
+   "logo": "https://bocir-medias-prod.s3.fr-par.scw.cloud/radios/radiofg/radiostream/RW32opoTnZ/vignette_bjW8Eyf8ne.jpeg",
    "rfApi": null,
    "rbUuid": "9f8179b0-08de-4a8e-8272-e8a70e196053",
    "streams": [
@@ -1293,7 +1293,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:50Z"
+     "lastChecked": "2026-11-18T18:04:56Z"
     }
    ]
   },
@@ -1308,7 +1308,7 @@
    "type": "locale",
    "group": "FG",
    "web": "https://www.radiofg.com/fg-dance",
-   "logo": null,
+   "logo": "https://bocir-medias-prod.s3.fr-par.scw.cloud/radios/radiofg/radiostream/7aU8RbLARV/vignette_chB9uUn6ei.jpeg",
    "rfApi": null,
    "rbUuid": null,
    "streams": [
@@ -1320,7 +1320,7 @@
      "format": "http",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:50Z"
+     "lastChecked": "2026-11-18T18:04:55Z"
     }
    ]
   },
@@ -1336,7 +1336,7 @@
    "type": "locale",
    "group": "FG",
    "web": "https://www.radiofg.com/maxximum",
-   "logo": null,
+   "logo": "https://bocir-medias-prod.s3.fr-par.scw.cloud/radios/radiofg/radiostream/UQDF1VGpkJ/vignette_fYG9ngY1Rb.jpeg",
    "rfApi": null,
    "rbUuid": "2db5a731-4c02-401d-a6ec-ae024a8a4f8f",
    "streams": [
@@ -1348,7 +1348,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:50Z"
+     "lastChecked": "2026-11-18T18:04:54Z"
     }
    ]
   },
@@ -1400,7 +1400,7 @@
    "type": "locale",
    "group": "Indés",
    "web": null,
-   "logo": null,
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Jazz-radio.png?width=512",
    "rfApi": null,
    "rbUuid": null,
    "streams": [
@@ -1412,7 +1412,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:51Z"
+     "lastChecked": "2026-11-18T18:04:56Z"
     },
     {
      "url": "https://jazzradio.ice.infomaniak.ch/jazzradio-high.aac",
@@ -1422,7 +1422,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:51Z"
+     "lastChecked": "2026-11-18T18:04:56Z"
     }
    ]
   },
@@ -1727,7 +1727,7 @@
    "type": "locale",
    "group": "Indés",
    "web": "https://www.tropiquesfm.com/",
-   "logo": null,
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_tropiquesFM.png?width=512",
    "rfApi": null,
    "rbUuid": "dfc627d6-5bb2-11ea-be63-52543be04c81",
    "streams": [
@@ -1739,7 +1739,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:52Z"
+     "lastChecked": "2026-11-18T18:04:55Z"
     }
    ]
   },
@@ -1884,7 +1884,7 @@
    "type": "locale",
    "group": "Lagardère",
    "web": null,
-   "logo": null,
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo-vr.png?width=512",
    "rfApi": null,
    "rbUuid": null,
    "streams": [
@@ -1896,7 +1896,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:53Z"
+     "lastChecked": "2026-11-18T18:04:56Z"
     }
    ]
   },
@@ -1911,7 +1911,7 @@
    "type": "locale",
    "group": "Indés",
    "web": "https://www.antinearadio.fr",
-   "logo": null,
+   "logo": "https://www.antinearadio.fr/upload/design/697a08f9dee3e2.09515859.jpg",
    "rfApi": null,
    "rbUuid": null,
    "streams": [
@@ -1923,7 +1923,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:52Z"
+     "lastChecked": "2026-11-18T18:04:56Z"
     }
    ]
   },
@@ -2040,7 +2040,7 @@
    "type": "locale",
    "group": "Indés",
    "web": "https://www.myzen.tv/fr/radio/",
-   "logo": null,
+   "logo": "https://www.myzen.tv/wp-content/uploads/2021/05/cropped-ICON_MZtv-LOGO_firetv640-1-1-300x300.png",
    "rfApi": null,
    "rbUuid": "51a279e4-7553-410f-85ea-375735211560",
    "streams": [
@@ -2052,7 +2052,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:53Z"
+     "lastChecked": "2026-11-18T18:04:56Z"
     }
    ]
   },
@@ -2121,7 +2121,7 @@
    "type": "associative",
    "group": "Indés",
    "web": "http://www.radiocourtoisie.fr/",
-   "logo": null,
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Radio_Courtoisie_2025.jpg?width=512",
    "rfApi": null,
    "rbUuid": "3ce7de6f-1d55-484f-bbe2-0e2d359a0ad9",
    "streams": [
@@ -2133,7 +2133,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:53Z"
+     "lastChecked": "2026-11-18T18:04:57Z"
     }
    ]
   },
@@ -2213,7 +2213,7 @@
    "type": "associative",
    "group": "Associatives",
    "web": "https://aligrefm.org",
-   "logo": null,
+   "logo": "https://aligrefm.org/upload/design/6ad78b951bb750.22260282.png",
    "rfApi": null,
    "rbUuid": null,
    "streams": [
@@ -2225,7 +2225,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:54Z"
+     "lastChecked": "2026-11-18T18:04:57Z"
     }
    ]
   },
@@ -2240,7 +2240,7 @@
    "type": "associative",
    "group": "Associatives",
    "web": "http://radio-aypfm.com/",
-   "logo": null,
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_AYP_FM.png?width=512",
    "rfApi": null,
    "rbUuid": "96179627-0601-11e8-ae97-52543be04c81",
    "streams": [
@@ -2252,7 +2252,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:54Z"
+     "lastChecked": "2026-11-18T18:04:57Z"
     }
    ]
   },
@@ -2268,7 +2268,7 @@
    "type": "associative",
    "group": "Associatives",
    "web": "https://cause-commune.fm",
-   "logo": null,
+   "logo": "https://cause-commune.fm/favicon.ico?favicon.2vob68tjqpejf.ico",
    "rfApi": null,
    "rbUuid": null,
    "streams": [
@@ -2280,7 +2280,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:54Z"
+     "lastChecked": "2026-11-18T18:05:07Z"
     }
    ]
   },
@@ -2312,7 +2312,7 @@
    "type": "associative",
    "group": "Associatives",
    "web": null,
-   "logo": null,
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Fr%C3%A9quence_protestante.jpg?width=512",
    "rfApi": null,
    "rbUuid": null,
    "streams": [
@@ -2324,7 +2324,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:54Z"
+     "lastChecked": "2026-11-18T18:04:57Z"
     }
    ]
   },
@@ -2339,7 +2339,7 @@
    "type": "associative",
    "group": "Associatives",
    "web": "https://www.londeporteuse.fr",
-   "logo": null,
+   "logo": "https://www.londeporteuse.fr/wp-content/themes/londeporteuse/assets/images/favicons/apple-touch-icon.png?x19020",
    "rfApi": null,
    "rbUuid": null,
    "streams": [
@@ -2351,7 +2351,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:55Z"
+     "lastChecked": "2026-11-18T18:04:58Z"
     }
    ]
   },
@@ -2367,7 +2367,7 @@
    "type": "associative",
    "group": "Associatives",
    "web": "http://www.radioneo.org/",
-   "logo": null,
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Radio_N%C3%A9o_-_Logo_2024.png?width=512",
    "rfApi": null,
    "rbUuid": "14dd545b-0444-4951-93a1-5bc773ed6273",
    "streams": [
@@ -2379,7 +2379,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:55Z"
+     "lastChecked": "2026-11-18T18:04:58Z"
     }
    ]
   },
@@ -2395,7 +2395,7 @@
    "type": "associative",
    "group": "Associatives",
    "web": "https://www.radiocampusparis.org/",
-   "logo": null,
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Radio_Campus_Paris_2024.svg?width=512",
    "rfApi": null,
    "rbUuid": "3859f931-66c5-4264-afc1-682e186d7263",
    "streams": [
@@ -2407,7 +2407,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:54Z"
+     "lastChecked": "2026-11-18T18:04:58Z"
     }
    ]
   },
@@ -2422,7 +2422,7 @@
    "type": "associative",
    "group": "Associatives",
    "web": "https://radio-libertaire.org/accueil.php",
-   "logo": null,
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Radio_Libertaire_logo.png?width=512",
    "rfApi": null,
    "rbUuid": "80405cc1-ce77-482a-bf81-6ef1f7e4476d",
    "streams": [
@@ -2434,7 +2434,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:54Z"
+     "lastChecked": "2026-11-18T18:05:08Z"
     }
    ]
   },
@@ -2619,7 +2619,7 @@
    "type": "associative",
    "group": "Associatives",
    "web": "https://hoperadio.live/",
-   "logo": null,
+   "logo": "https://hoperadio.live/upload/design/5e9dd781241937.89330927.png",
    "rfApi": null,
    "rbUuid": "7552cec8-155f-40d8-873d-eb77889a5e90",
    "streams": [
@@ -2631,7 +2631,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:57Z"
+     "lastChecked": "2026-11-18T18:04:58Z"
     }
    ]
   },
@@ -2647,7 +2647,7 @@
    "type": "associative",
    "group": "Associatives",
    "web": "https://idfm98.fr",
-   "logo": null,
+   "logo": "https://idfm98.fr/wp-content/uploads/2023/11/cropped-Copie-de-Minimalist-Typography-Illustrative-Brand-Logo-2-192x192.png",
    "rfApi": null,
    "rbUuid": null,
    "streams": [
@@ -2659,7 +2659,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:55Z"
+     "lastChecked": "2026-11-18T18:05:09Z"
     }
    ]
   },
@@ -2756,7 +2756,7 @@
    "type": "associative",
    "group": "Associatives",
    "web": "https://radioj.fr",
-   "logo": null,
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/RadioJ.jpg?width=512",
    "rfApi": null,
    "rbUuid": null,
    "streams": [
@@ -2768,7 +2768,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:55Z"
+     "lastChecked": "2026-11-18T18:04:59Z"
     }
    ]
   },
@@ -2812,7 +2812,7 @@
    "type": "associative",
    "group": "Associatives",
    "web": "https://www.radioshalom.fr",
-   "logo": null,
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_de_Radio_Shalom.jpg?width=512",
    "rfApi": null,
    "rbUuid": null,
    "streams": [
@@ -2824,7 +2824,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:56Z"
+     "lastChecked": "2026-11-18T18:04:59Z"
     }
    ]
   },
@@ -2856,7 +2856,7 @@
    "type": "locale",
    "group": "Indés",
    "web": "http://tvradio-pitchoun.fr/",
-   "logo": null,
+   "logo": "https://tvradiopitchoun.fr/upload/design/6aca264d9b1a65.31477919.png",
    "rfApi": null,
    "rbUuid": "2534c8ea-1005-47a4-b199-cb0c2c1a18c9",
    "streams": [
@@ -2868,7 +2868,7 @@
      "format": "http",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:56Z"
+     "lastChecked": "2026-11-18T18:04:59Z"
     }
    ]
   },
@@ -3137,7 +3137,7 @@
    "type": "locale",
    "group": "Indés",
    "web": null,
-   "logo": null,
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Radio_Monaco.svg?width=512",
    "rfApi": null,
    "rbUuid": null,
    "streams": [
@@ -3149,7 +3149,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:57Z"
+     "lastChecked": "2026-11-18T18:05:00Z"
     }
    ]
   },
@@ -3165,7 +3165,7 @@
    "type": "locale",
    "group": "Autoroutes",
    "web": "https://www.sanef.com/fr/mon-voyage/radio-sanef-1077",
-   "logo": null,
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Sanef_1077_V2.png?width=512",
    "rfApi": null,
    "rbUuid": "b78399af-f6b5-462c-9fae-5742062904bb",
    "streams": [
@@ -3177,7 +3177,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:57Z"
+     "lastChecked": "2026-11-18T18:05:00Z"
     }
    ]
   },
@@ -3192,7 +3192,7 @@
    "type": "locale",
    "group": "Indés",
    "web": "https://sequenceradio.com",
-   "logo": null,
+   "logo": "https://sequenceradio.com/wp-content/uploads/2025/01/cropped-Logo-Sequence-Pictogramme-1-192x192.png",
    "rfApi": null,
    "rbUuid": null,
    "streams": [
@@ -3204,7 +3204,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:59Z"
+     "lastChecked": "2026-11-18T18:05:01Z"
     }
    ]
   },
@@ -3235,7 +3235,7 @@
    "type": "locale",
    "group": "Indés",
    "web": "https://www.tsugi.fr/tsugi-radio/",
-   "logo": null,
+   "logo": "https://www.tsugi.fr/favicon/apple-touch-icon.png",
    "rfApi": null,
    "rbUuid": "3c4caeb0-56ce-11e8-b0ce-52543be04c81",
    "streams": [
@@ -3247,7 +3247,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:59Z"
+     "lastChecked": "2026-11-18T18:05:02Z"
     },
     {
      "url": "https://listen.radioking.com/radio/1906/stream/6029",
@@ -3257,7 +3257,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-18T17:12:58Z"
+     "lastChecked": "2026-11-18T18:05:03Z"
     }
    ]
   },
