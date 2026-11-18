@@ -1,10 +1,10 @@
-# Rapport de vérification — 2026-11-18T16:58:52Z
+# Rapport de vérification — 2026-11-18T17:09:46Z
 
-- Stations jouables : **80/107**
-- Flux testés : 125, valides : 124
+- Stations jouables : **96/107**
+- Flux testés : 144, valides : 143
 - Réparées automatiquement : aucune
 - Ajoutées depuis la seed : aucune
-- Sans flux : rire-et-chansons, fg-dance, melody, live-festival, vivre-fm, antinea, mbs, radio-maria, aligre-fm, cause-commune, frequence-india, onde-porteuse, rme, radio-ter, aasman, idfm-enghien, pi-mg, radio-j, radio-shalom, judaiques-fm, tek-radio, figaro-radio, paname, radio-life, sequence-radio, trace-radio, hitmix
+- Sans flux : live-festival, vivre-fm, frequence-india, radio-ter, aasman, pi-mg, judaiques-fm, tek-radio, paname, trace-radio, hitmix
 
 | Station | Flux OK | Meilleur flux |
 |---|---|---|
@@ -31,7 +31,7 @@
 | Chérie FM | 1/1 | MP3 128k |
 | Nostalgie | 3/3 | HE-AAC 128k |
 | Nostalgie 60/70 | 1/1 | MP3 128k |
-| Rire & Chansons | 0/0 | — |
+| Rire & Chansons | 1/1 | MP3 128k |
 | Skyrock | 2/2 | AAC 128k |
 | Radio Classique | 2/2 | HE-AAC 64k |
 | M Radio | 1/1 | MP3 128k |
@@ -43,7 +43,7 @@
 | Radio Nova | 1/1 | MP3 128k |
 | Radio FG | 2/2 | MP3 ?k |
 | FG Chic | 1/1 | MP3 ?k |
-| FG Dance | 0/0 | — |
+| FG Dance | 1/1 | MP3 ?k |
 | Maxximum | 1/1 | MP3 ?k |
 | Ouï FM | 2/2 | HE-AAC 96k |
 | Jazz Radio | 2/2 | MP3 192k |
@@ -52,7 +52,7 @@
 | Voltage | 2/2 | HE-AAC 192k |
 | Radio Notre Dame | 1/1 | MP3 192k |
 | Évasion | 1/1 | MP3 128k |
-| Melody | 0/0 | — |
+| Melody | 1/1 | MP3 ?k |
 | Beur FM | 2/2 | HE-AAC 64k |
 | France Maghreb 2 | 1/1 | MP3 128k |
 | Africa Radio | 1/1 | MP3 128k |
@@ -63,26 +63,26 @@
 | Live Festival Radio | 0/0 | — |
 | Vivre FM | 0/1 | — |
 | Virgin Radio | 1/1 | HE-AAC 64k |
-| Antinéa Radio | 0/0 | — |
+| Antinéa Radio | 1/1 | MP3 128k |
 | Euradio | 1/1 | MP3 256k |
 | Radio Lovely | 1/1 | MP3 128k |
-| MBS | 0/0 | — |
+| MBS | 3/3 | HE-AAC 96k |
 | MyZen Radio | 1/1 | MP3 ?k |
 | Phare FM | 1/1 | MP3 128k |
 | Radio Bonheur | 1/1 | MP3 128k |
 | Radio Courtoisie | 1/1 | MP3 128k |
-| Radio Maria | 0/0 | — |
+| Radio Maria | 2/2 | MP3 128k |
 | Urban Hit | 1/1 | MP3 128k |
-| Aligre FM | 0/0 | — |
+| Aligre FM | 1/1 | MP3 128k |
 | AYP FM | 1/1 | MP3 192k |
-| Cause Commune | 0/0 | — |
+| Cause Commune | 1/1 | MP3 320k |
 | Fréquence India | 0/0 | — |
 | Fréquence Protestante | 1/1 | MP3 160k |
-| L'Onde porteuse | 0/0 | — |
+| L'Onde porteuse | 1/1 | MP3 128k |
 | Radio Néo | 1/1 | MP3 128k |
 | Radio Campus Paris | 1/1 | MP3 128k |
 | Radio Libertaire | 1/1 | MP3 256k |
-| Radio Mandarin d'Europe | 0/0 | — |
+| Radio Mandarin d'Europe | 1/1 | MP3 128k |
 | Radio Tèr | 0/0 | — |
 | World Radio Paris | 1/1 | MP3 128k |
 | Fréquence Paris Plurielle | 1/1 | MP3 128k |
@@ -90,27 +90,27 @@
 | Aasman Radio | 0/0 | — |
 | Cinemusic Radio | 1/1 | MP3 192k |
 | Hope Radio | 1/1 | MP3 128k |
-| IdFM Radio Enghien | 0/0 | — |
+| IdFM Radio Enghien | 1/1 | MP3 128k |
 | PI-MG Radio | 0/0 | — |
 | Radio Alfa | 1/1 | MP3 ?k |
 | Radio Fuego | 2/2 | HE-AAC 192k |
-| Radio J | 0/0 | — |
+| Radio J | 1/1 | MP3 ?k |
 | RCJ | 1/1 | MP3 128k |
-| Radio Shalom | 0/0 | — |
+| Radio Shalom | 1/1 | MP3 128k |
 | Judaïques FM | 0/0 | — |
 | Radio Pitchoun | 1/1 | AAC ?k |
 | Radio Sensations Île-de-France | 1/1 | AAC 128k |
 | Tek Radio | 0/0 | — |
 | Collector Radio | 2/2 | MP3 128k |
 | Espace | 2/2 | MP3 192k |
-| Figaro Radio | 0/0 | — |
+| Figaro Radio | 1/1 | MP3 ?k |
 | La Grande Musique | 2/2 | MP3 ?k |
 | Les Inrocks Radio | 1/1 | MP3 128k |
 | Paname | 0/0 | — |
-| Radio Life | 0/0 | — |
+| Radio Life | 1/1 | MP3 128k |
 | Radio Monaco | 1/1 | MP3 128k |
 | Sanef 107.7 | 1/1 | MP3 128k |
-| Séquence Radio | 0/0 | — |
+| Séquence Radio | 1/1 | MP3 128k |
 | Trace Radio | 0/0 | — |
 | Tsugi Radio | 2/2 | MP3 128k |
 | Hitmix Radio | 0/0 | — |
