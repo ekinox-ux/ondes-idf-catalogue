@@ -1,0 +1,35 @@
+name: Vérification nocturne des flux
+
+on:
+  schedule:
+    - cron: "17 2 * * *"   # tous les jours vers 3 h / 4 h (heure de Paris)
+  workflow_dispatch:        # lancement manuel depuis l'onglet Actions
+  push:
+    paths:
+      - "seed/**"
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Vérifier les flux
+        run: python scripts/check_streams.py
+      - name: Publier les changements
+        run: |
+          git config user.name "ondes-idf-bot"
+          git config user.email "ondes-idf-bot@users.noreply.github.com"
+          git add stations.json report.md
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "Vérification automatique des flux"
+            git push
+          fi

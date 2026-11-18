@@ -1,0 +1,3103 @@
+{
+ "schemaVersion": 1,
+ "generatedAt": "2026-11-18T15:47:51Z",
+ "stations": [
+  {
+   "id": "france-inter",
+   "name": "France Inter",
+   "fm": 87.8,
+   "dab": "M2",
+   "genres": [
+    "generaliste",
+    "info"
+   ],
+   "type": "nationale",
+   "group": "Radio France",
+   "web": "https://www.radiofrance.fr/franceinter",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/France_Inter_logo_2021.svg?width=512",
+   "rfApi": "FRANCEINTER",
+   "rbUuid": null,
+   "streams": [
+    {
+     "url": "https://stream.radiofrance.fr/franceinter/franceinter.m3u8?id=radiofrance",
+     "codec": "AAC",
+     "bitrate": 192,
+     "sampleRate": null,
+     "format": "hls",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    },
+    {
+     "url": "https://icecast.radiofrance.fr/franceinter-hifi.aac",
+     "codec": "AAC",
+     "bitrate": 192,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    },
+    {
+     "url": "https://icecast.radiofrance.fr/franceinter-midfi.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:35Z"
+    },
+    {
+     "url": "https://icecast.radiofrance.fr/franceinter-lofi.aac",
+     "codec": "AAC",
+     "bitrate": 32,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "eco",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    }
+   ]
+  },
+  {
+   "id": "franceinfo",
+   "name": "franceinfo",
+   "fm": 105.5,
+   "dab": "M2",
+   "genres": [
+    "info"
+   ],
+   "type": "nationale",
+   "group": "Radio France",
+   "web": "https://www.francetvinfo.fr",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Franceinfo.svg?width=512",
+   "rfApi": "FRANCEINFO",
+   "rbUuid": null,
+   "streams": [
+    {
+     "url": "https://stream.radiofrance.fr/franceinfo/franceinfo.m3u8?id=radiofrance",
+     "codec": "AAC",
+     "bitrate": 192,
+     "sampleRate": null,
+     "format": "hls",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:33Z"
+    },
+    {
+     "url": "https://icecast.radiofrance.fr/franceinfo-hifi.aac",
+     "codec": "AAC",
+     "bitrate": 192,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    },
+    {
+     "url": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    },
+    {
+     "url": "https://icecast.radiofrance.fr/franceinfo-lofi.aac",
+     "codec": "AAC",
+     "bitrate": 32,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "eco",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    }
+   ]
+  },
+  {
+   "id": "france-culture",
+   "name": "France Culture",
+   "fm": 93.5,
+   "dab": "M2",
+   "genres": [
+    "culture",
+    "talk"
+   ],
+   "type": "nationale",
+   "group": "Radio France",
+   "web": "https://www.radiofrance.fr/franceculture",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/France_Culture_logo_2021.svg?width=512",
+   "rfApi": "FRANCECULTURE",
+   "rbUuid": null,
+   "streams": [
+    {
+     "url": "https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofrance",
+     "codec": "AAC",
+     "bitrate": 192,
+     "sampleRate": null,
+     "format": "hls",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    },
+    {
+     "url": "https://icecast.radiofrance.fr/franceculture-hifi.aac",
+     "codec": "AAC",
+     "bitrate": 192,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    },
+    {
+     "url": "https://icecast.radiofrance.fr/franceculture-midfi.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    },
+    {
+     "url": "https://icecast.radiofrance.fr/franceculture-lofi.aac",
+     "codec": "AAC",
+     "bitrate": 32,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "eco",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    }
+   ]
+  },
+  {
+   "id": "france-musique",
+   "name": "France Musique",
+   "fm": 91.7,
+   "dab": "M2",
+   "genres": [
+    "classique"
+   ],
+   "type": "nationale",
+   "group": "Radio France",
+   "web": "https://www.radiofrance.fr/francemusique",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/France_Musique_logo_2021.svg?width=512",
+   "rfApi": "FRANCEMUSIQUE",
+   "rbUuid": null,
+   "streams": [
+    {
+     "url": "https://stream.radiofrance.fr/francemusique/francemusique.m3u8?id=radiofrance",
+     "codec": "AAC",
+     "bitrate": 192,
+     "sampleRate": null,
+     "format": "hls",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    },
+    {
+     "url": "https://icecast.radiofrance.fr/francemusique-hifi.aac",
+     "codec": "AAC",
+     "bitrate": 192,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    },
+    {
+     "url": "https://icecast.radiofrance.fr/francemusique-midfi.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    },
+    {
+     "url": "https://icecast.radiofrance.fr/francemusique-lofi.aac",
+     "codec": "AAC",
+     "bitrate": 32,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "eco",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    }
+   ]
+  },
+  {
+   "id": "fip",
+   "name": "FIP",
+   "fm": 105.1,
+   "dab": "M2",
+   "genres": [
+    "eclectique",
+    "jazz"
+   ],
+   "type": "nationale",
+   "group": "Radio France",
+   "web": "https://www.radiofrance.fr/fip",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/FIP_logo_2021.svg?width=512",
+   "rfApi": "FIP",
+   "rbUuid": null,
+   "streams": [
+    {
+     "url": "https://stream.radiofrance.fr/fip/fip.m3u8?id=radiofrance",
+     "codec": "AAC",
+     "bitrate": 192,
+     "sampleRate": null,
+     "format": "hls",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    },
+    {
+     "url": "https://icecast.radiofrance.fr/fip-hifi.aac",
+     "codec": "AAC",
+     "bitrate": 192,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    },
+    {
+     "url": "https://icecast.radiofrance.fr/fip-midfi.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    },
+    {
+     "url": "https://icecast.radiofrance.fr/fip-lofi.aac",
+     "codec": "AAC",
+     "bitrate": 32,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "eco",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    }
+   ]
+  },
+  {
+   "id": "mouv",
+   "name": "Mouv'",
+   "fm": 92.1,
+   "dab": null,
+   "genres": [
+    "urbain"
+   ],
+   "type": "nationale",
+   "group": "Radio France",
+   "web": "https://www.radiofrance.fr/mouv",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Mouv_logo_2022.svg?width=512",
+   "rfApi": "MOUV",
+   "rbUuid": null,
+   "streams": [
+    {
+     "url": "https://stream.radiofrance.fr/mouv/mouv.m3u8?id=radiofrance",
+     "codec": "AAC",
+     "bitrate": 192,
+     "sampleRate": null,
+     "format": "hls",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    },
+    {
+     "url": "https://icecast.radiofrance.fr/mouv-hifi.aac",
+     "codec": "AAC",
+     "bitrate": 192,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    },
+    {
+     "url": "https://icecast.radiofrance.fr/mouv-midfi.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    },
+    {
+     "url": "https://icecast.radiofrance.fr/mouv-lofi.aac",
+     "codec": "AAC",
+     "bitrate": 32,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "eco",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    }
+   ]
+  },
+  {
+   "id": "ici-paris",
+   "name": "ici Paris Île-de-France",
+   "fm": 107.1,
+   "dab": "11B",
+   "genres": [
+    "locale",
+    "generaliste"
+   ],
+   "type": "locale",
+   "group": "Radio France",
+   "web": "https://www.francebleu.fr/paris",
+   "logo": null,
+   "rfApi": "FRANCEBLEU_PARIS",
+   "rbUuid": null,
+   "streams": [
+    {
+     "url": "https://stream.radiofrance.fr/fb1071/fb1071.m3u8?id=radiofrance",
+     "codec": "AAC",
+     "bitrate": 192,
+     "sampleRate": null,
+     "format": "hls",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    },
+    {
+     "url": "https://icecast.radiofrance.fr/fb1071-hifi.aac",
+     "codec": "AAC",
+     "bitrate": 192,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:35Z"
+    },
+    {
+     "url": "https://icecast.radiofrance.fr/fb1071-midfi.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    },
+    {
+     "url": "https://icecast.radiofrance.fr/fb1071-lofi.aac",
+     "codec": "AAC",
+     "bitrate": 32,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "eco",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    }
+   ]
+  },
+  {
+   "id": "mon-petit-france-inter",
+   "name": "Mon petit France Inter",
+   "fm": null,
+   "dab": "M2",
+   "genres": [
+    "enfants"
+   ],
+   "type": "nationale",
+   "group": "Radio France",
+   "web": "https://www.radiofrance.fr/podcasts/enfants",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Mon_petit_France_Inter_logo_2025.svg?width=512",
+   "rfApi": null,
+   "rbUuid": "d2b53a2e-5ad2-4223-b5a5-8dfe582cc32d",
+   "streams": [
+    {
+     "url": "https://stream.radiofrance.fr/monpetitfranceinter/monpetitfranceinter_hifi.m3u8",
+     "codec": null,
+     "bitrate": null,
+     "sampleRate": null,
+     "format": "hls",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:34Z"
+    }
+   ]
+  },
+  {
+   "id": "rfi",
+   "name": "RFI",
+   "fm": 89.0,
+   "dab": "6A",
+   "genres": [
+    "info",
+    "monde"
+   ],
+   "type": "nationale",
+   "group": "France Médias Monde",
+   "web": "https://www.rfi.fr",
+   "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi076SvIq9FK1ila6iO0HpdpC6f6eMrCLPrNli3Y6WYe_7cVIM8GTSIKi5L2v3bmwD298Xc2jjmRlPX9nzJseyatmlnRhmrgL7QBGiUKBWhNDpmpSigoBKW-DQg-ytDeOF-iUaikzXDJef87-Or9eBq7fXL13kARxykDqVbhhIuT_e9niBlF0ZMztzw/s1600/Capture%20d%E2%80%99%C3%A9cran_2024-11-19_14-44-01.png",
+   "rfApi": null,
+   "rbUuid": "cbca0f46-ced9-4154-8157-c87039765207",
+   "streams": [
+    {
+     "url": "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3",
+     "codec": "MP3",
+     "bitrate": 64,
+     "sampleRate": 22050,
+     "format": "icecast",
+     "quality": "eco",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:35Z"
+    }
+   ]
+  },
+  {
+   "id": "mcd",
+   "name": "Monte Carlo Doualiya",
+   "fm": null,
+   "dab": "6D",
+   "genres": [
+    "info",
+    "monde"
+   ],
+   "type": "nationale",
+   "group": "France Médias Monde",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": [
+    {
+     "url": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 44100,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:35Z"
+    }
+   ]
+  },
+  {
+   "id": "rtl",
+   "name": "RTL",
+   "fm": 104.3,
+   "dab": "M1",
+   "genres": [
+    "generaliste",
+    "info"
+   ],
+   "type": "nationale",
+   "group": "M6",
+   "web": "https://www.rtl.fr",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/RTL_logo.svg?width=512",
+   "rfApi": null,
+   "rbUuid": "042d3140-227c-4fac-9387-4903b692d5f2",
+   "streams": [
+    {
+     "url": "https://icecast.rtl.fr/rtl-1-44-128",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 44100,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:35Z"
+    }
+   ]
+  },
+  {
+   "id": "rtl2",
+   "name": "RTL2",
+   "fm": 105.9,
+   "dab": "M1",
+   "genres": [
+    "pop",
+    "rock"
+   ],
+   "type": "nationale",
+   "group": "M6",
+   "web": "https://www.rtl2.fr",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/RTL2.png?width=512",
+   "rfApi": null,
+   "rbUuid": "3711e557-d001-4f4e-af88-85a11faa9a80",
+   "streams": [
+    {
+     "url": "https://icecast.rtl2.fr/rtl2-1-44-128",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 44100,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:35Z"
+    }
+   ]
+  },
+  {
+   "id": "fun-radio",
+   "name": "Fun Radio",
+   "fm": 101.9,
+   "dab": "M1",
+   "genres": [
+    "electro",
+    "pop"
+   ],
+   "type": "nationale",
+   "group": "M6",
+   "web": "https://www.funradio.fr",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/FUN21.png?width=512",
+   "rfApi": null,
+   "rbUuid": "9f756e2d-8e9b-45f5-8fc1-61573e23036b",
+   "streams": [
+    {
+     "url": "https://icecast.funradio.fr/fun-1-44-128",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 44100,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:35Z"
+    }
+   ]
+  },
+  {
+   "id": "europe-1",
+   "name": "Europe 1",
+   "fm": 104.7,
+   "dab": "M2",
+   "genres": [
+    "generaliste",
+    "info"
+   ],
+   "type": "nationale",
+   "group": "Lagardère",
+   "web": "https://www.europe1.fr",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Europe1_FLAT.png?width=512",
+   "rfApi": null,
+   "rbUuid": "51775b57-e11a-40ef-8894-38b07d80bb73",
+   "streams": [
+    {
+     "url": "https://europe1.lmn.fm/europe1.aac",
+     "codec": "AAC",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:35Z"
+    },
+    {
+     "url": "https://europe1.lmn.fm/europe1.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:35Z"
+    }
+   ]
+  },
+  {
+   "id": "europe-2",
+   "name": "Europe 2",
+   "fm": 103.5,
+   "dab": "M2",
+   "genres": [
+    "pop",
+    "rock"
+   ],
+   "type": "nationale",
+   "group": "Lagardère",
+   "web": "https://www.europe2.fr",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Europe_2_noir_2024.png?width=512",
+   "rfApi": null,
+   "rbUuid": "be1e97e2-064a-4710-9ce9-d792d8beb1ca",
+   "streams": [
+    {
+     "url": "https://europe2.lmn.fm/europe2.aac",
+     "codec": "AAC",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:35Z"
+    },
+    {
+     "url": "https://europe2.lmn.fm/europe2.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    }
+   ]
+  },
+  {
+   "id": "rfm",
+   "name": "RFM",
+   "fm": 103.9,
+   "dab": "M2",
+   "genres": [
+    "pop"
+   ],
+   "type": "nationale",
+   "group": "Lagardère",
+   "web": "https://www.rfm.fr",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/RFM_logo_2011.png?width=512",
+   "rfApi": null,
+   "rbUuid": "26e53a33-36a6-44de-a5e2-aa9083797e35",
+   "streams": [
+    {
+     "url": "https://stream.rfm.fr/rfm-wr13.aac",
+     "codec": "HE-AAC",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:35Z"
+    },
+    {
+     "url": "https://stream.rfm.fr/rfm.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    }
+   ]
+  },
+  {
+   "id": "rmc",
+   "name": "RMC",
+   "fm": 103.1,
+   "dab": "M2",
+   "genres": [
+    "talk",
+    "sport",
+    "info"
+   ],
+   "type": "nationale",
+   "group": "RMC BFM",
+   "web": "https://rmc.bfmtv.com",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/RMC_2025.svg?width=512",
+   "rfApi": null,
+   "rbUuid": "03c97140-ba60-4f41-8b98-b560ca0927cc",
+   "streams": [
+    {
+     "url": "https://hls-rmc.nextradiotv.com/no_ssai/128k/media.m3u8",
+     "codec": null,
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "hls",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:35Z"
+    },
+    {
+     "url": "https://audio.bfmtv.com/rmcradio_128.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    }
+   ]
+  },
+  {
+   "id": "bfm-business",
+   "name": "BFM Business",
+   "fm": 96.4,
+   "dab": "M2",
+   "genres": [
+    "info",
+    "eco"
+   ],
+   "type": "nationale",
+   "group": "RMC BFM",
+   "web": "https://www.bfmtv.com/economie/",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/BFM_Business_2026.png?width=512",
+   "rfApi": null,
+   "rbUuid": "d54152c8-e9dc-42ae-8f9f-789ad01fa6b9",
+   "streams": [
+    {
+     "url": "https://audio.bfmtv.com/bfmbusiness_128.mp3",
+     "codec": "MP3",
+     "bitrate": 256,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    }
+   ]
+  },
+  {
+   "id": "bfm-radio",
+   "name": "BFM Radio",
+   "fm": null,
+   "dab": "M2",
+   "genres": [
+    "info"
+   ],
+   "type": "nationale",
+   "group": "RMC BFM",
+   "web": null,
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/BFM_Radio_2025.png?width=512",
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": [
+    {
+     "url": "https://audio.bfmtv.com/bfmradio_128.mp3",
+     "codec": "MP3",
+     "bitrate": 256,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    }
+   ]
+  },
+  {
+   "id": "nrj",
+   "name": "NRJ",
+   "fm": 100.3,
+   "dab": "M1",
+   "genres": [
+    "pop",
+    "hits"
+   ],
+   "type": "nationale",
+   "group": "NRJ Group",
+   "web": "https://www.nrj.fr",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Nrj2014.png?width=512",
+   "rfApi": null,
+   "rbUuid": "ecfd9b84-8d6d-4d67-908b-6ec836cafb02",
+   "streams": [
+    {
+     "url": "https://streaming.nrjaudio.fm/ou5k6tirv93h",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:35Z"
+    }
+   ]
+  },
+  {
+   "id": "cherie-fm",
+   "name": "Chérie FM",
+   "fm": 91.3,
+   "dab": "M1",
+   "genres": [
+    "pop"
+   ],
+   "type": "nationale",
+   "group": "NRJ Group",
+   "web": "https://www.cheriefm.fr",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Ch%C3%A9rie_FM_logo_2012.png?width=512",
+   "rfApi": null,
+   "rbUuid": "f9ed1fa4-63d7-45a4-bdd6-48c5567f0f6b",
+   "streams": [
+    {
+     "url": "https://cdnradio.streamakaci.com/cheriefm1.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 44100,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:35Z"
+    }
+   ]
+  },
+  {
+   "id": "nostalgie",
+   "name": "Nostalgie",
+   "fm": 90.4,
+   "dab": "M1",
+   "genres": [
+    "oldies"
+   ],
+   "type": "nationale",
+   "group": "NRJ Group",
+   "web": "https://www.nostalgie.fr",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Nostalgie_logo_2015.png?width=512",
+   "rfApi": null,
+   "rbUuid": "c785b4aa-d774-4a2f-9d66-c168ee45ed08",
+   "streams": [
+    {
+     "url": "https://streaming.nrjaudio.fm/ouwgwqsk6j4d",
+     "codec": "HE-AAC",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    },
+    {
+     "url": "https://streaming.nrjaudio.fm/ouwgwqsk6j4d?origine=playernostalgie&aw_0_req.userConsentV2=CQaT2UAQaT2UAAHABBENCDFsAP_gAEPgAAqIJ2tR_G_fbWlj-TZ1YfpkeYwP99gj7sQxBgSJk24FyJvW7JwSx2ExJAzapqIKmRIAu3TBAQNlGIDURUAAIIgVqSDMaESUgTNKJ6BEiFMRI2JYCFxvm4FDWQCY5kp99lcxmB-N7dr8yNzgAgAAAUCAIQAgAIABAACIAAAgAAAAAQAAAiwACAAAAAAAAEAAAFAAAABAAAEAAAACAAAABAAAIJ2gAmGhUQQlgQABAoGAECAAQVhABQIAgAASBggIASBgU5AwAXWEyAAAKAAYIAQAAgwABAAAJAAhEAEABAIAAIBAIAAQAAAAIACBAADABYiAQAAgOgYBAQQCBYAJGZVBpgQgAJBASyFCAAAAgAACAAQAAAIAAAAAAAAAgAAAAAAAAggAAAAAAAAAAAAAAAAAAEABAAAAAAAAAAAAABAAAIAA.f_wACHwAAAAA&aw_0_1st.station=",
+     "codec": "HE-AAC",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    },
+    {
+     "url": "https://streaming.nrjaudio.fm/oug7girb92oc?origine=fluxradios",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    }
+   ]
+  },
+  {
+   "id": "nostalgie-6070",
+   "name": "Nostalgie 60/70",
+   "fm": null,
+   "dab": "M1",
+   "genres": [
+    "oldies"
+   ],
+   "type": "nationale",
+   "group": "NRJ Group",
+   "web": "https://nostalgie.fr/",
+   "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/640x640/NOSTA-WR-60-70.jpg?utm_source=chatgpt.com",
+   "rfApi": null,
+   "rbUuid": "24ab018c-56be-463e-8bba-8aec4a32b9ba",
+   "streams": [
+    {
+     "url": "https://streaming.nrjaudio.fm/ougfkxrb92oc",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:35Z"
+    }
+   ]
+  },
+  {
+   "id": "rire-et-chansons",
+   "name": "Rire & Chansons",
+   "fm": 97.4,
+   "dab": "M1",
+   "genres": [
+    "humour"
+   ],
+   "type": "nationale",
+   "group": "NRJ Group",
+   "web": "https://www.rireetchansons.fr",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/RIRECHANSONS.svg?width=512",
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "skyrock",
+   "name": "Skyrock",
+   "fm": 96.0,
+   "dab": "M1",
+   "genres": [
+    "urbain"
+   ],
+   "type": "nationale",
+   "group": "Skyrock",
+   "web": "https://skyrock.fm",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Skyrock_FM_%281997%29.svg?width=512",
+   "rfApi": null,
+   "rbUuid": "8568e277-ce8a-416e-859d-de8053bc7cae",
+   "streams": [
+    {
+     "url": "https://icecast.skyrock.net/s/natio_aac_128k",
+     "codec": "AAC",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    },
+    {
+     "url": "https://icecast.skyrock.net/s/natio_mp3_128k",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    }
+   ]
+  },
+  {
+   "id": "radio-classique",
+   "name": "Radio Classique",
+   "fm": 101.1,
+   "dab": "M1",
+   "genres": [
+    "classique"
+   ],
+   "type": "nationale",
+   "group": "Les Échos-Le Parisien",
+   "web": "https://www.radioclassique.fr",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Radio_Classique.svg?width=512",
+   "rfApi": null,
+   "rbUuid": "8890f793-36f4-4218-8f53-3d34a75db66a",
+   "streams": [
+    {
+     "url": "https://radioclassique.ice.infomaniak.ch/radioclassique-high.aac",
+     "codec": "HE-AAC",
+     "bitrate": 64,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    },
+    {
+     "url": "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    }
+   ]
+  },
+  {
+   "id": "m-radio",
+   "name": "M Radio",
+   "fm": null,
+   "dab": "M1",
+   "genres": [
+    "chanson"
+   ],
+   "type": "nationale",
+   "group": "Indés",
+   "web": "http://mradio.fr/",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Mradio.png?width=512",
+   "rfApi": null,
+   "rbUuid": "960678ee-0601-11e8-ae97-52543be04c81",
+   "streams": [
+    {
+     "url": "https://mfm.ice.infomaniak.ch/mfm-128.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    }
+   ]
+  },
+  {
+   "id": "latina",
+   "name": "Latina",
+   "fm": 99.0,
+   "dab": "6A",
+   "genres": [
+    "latino",
+    "monde"
+   ],
+   "type": "nationale",
+   "group": "Indés",
+   "web": null,
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Latina.png?width=512",
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": [
+    {
+     "url": "https://start-latina.ice.infomaniak.ch/start-latina-high.aac",
+     "codec": "HE-AAC",
+     "bitrate": 192,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    },
+    {
+     "url": "https://start-latina.ice.infomaniak.ch/start-latina-high.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    }
+   ]
+  },
+  {
+   "id": "airzen",
+   "name": "AirZen Radio",
+   "fm": null,
+   "dab": "M1",
+   "genres": [
+    "pop",
+    "talk"
+   ],
+   "type": "nationale",
+   "group": "Mediameeting",
+   "web": "https://www.airzen.fr/",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Airzen_radio_logo.png?width=512",
+   "rfApi": null,
+   "rbUuid": "8fe8bcd2-b0f7-49d4-ad47-fb1142b952d0",
+   "streams": [
+    {
+     "url": "https://n22a-eu.rcs.revma.com/vuumdncf368uv?",
+     "codec": "AAC",
+     "bitrate": null,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    }
+   ]
+  },
+  {
+   "id": "kto-radio",
+   "name": "KTO Radio",
+   "fm": null,
+   "dab": "M2",
+   "genres": [
+    "religieuse"
+   ],
+   "type": "nationale",
+   "group": "KTO",
+   "web": "https://www.ktoradio.com/",
+   "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/KTO_t%C3%A9l%C3%A9vision_catholique_-_logo_2022.png?width=512",
+   "rfApi": null,
+   "rbUuid": "1365b58b-5486-440f-b2b2-044093540e56",
+   "streams": [
+    {
+     "url": "https://liveradiokto.akamaized.net/hls/live/20000054/ktoradio/master.m3u8",
+     "codec": "AAC",
+     "bitrate": 320,
+     "sampleRate": null,
+     "format": "hls",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    }
+   ]
+  },
+  {
+   "id": "sud-radio",
+   "name": "Sud Radio",
+   "fm": 99.9,
+   "dab": "11B",
+   "genres": [
+    "talk",
+    "info"
+   ],
+   "type": "nationale",
+   "group": "Fiducial",
+   "web": "https://www.sudradio.fr",
+   "logo": "https://www.sudradio.fr/wp-content/uploads/2019/06/cropped-favicon-180x180.png",
+   "rfApi": null,
+   "rbUuid": "12300aac-86c0-41ea-9a72-eba52a2c114d",
+   "streams": [
+    {
+     "url": "https://ice.creacast.com/sudradio_aac",
+     "codec": "AAC",
+     "bitrate": 128,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    },
+    {
+     "url": "https://ice.creacast.com/sudradio",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    },
+    {
+     "url": "https://live.sudradio.fr/sudradio-mp3-128",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    }
+   ]
+  },
+  {
+   "id": "tsf-jazz",
+   "name": "TSF Jazz",
+   "fm": 89.9,
+   "dab": "11B",
+   "genres": [
+    "jazz"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "https://www.tsfjazz.com",
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": "1b4afcc2-6630-4557-b6f1-23efa84880c3",
+   "streams": [
+    {
+     "url": "https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 44100,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    }
+   ]
+  },
+  {
+   "id": "radio-nova",
+   "name": "Radio Nova",
+   "fm": 101.5,
+   "dab": "11B",
+   "genres": [
+    "eclectique",
+    "electro"
+   ],
+   "type": "locale",
+   "group": "Nova Press",
+   "web": "https://www.nova.fr",
+   "logo": "https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2021/02/cropped-favicon-t-180x180.png",
+   "rfApi": null,
+   "rbUuid": "121cc91e-1f4d-41d5-b7f3-5d09c688fc2f",
+   "streams": [
+    {
+     "url": "https://novazz.ice.infomaniak.ch/novazz-128.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    }
+   ]
+  },
+  {
+   "id": "radio-fg",
+   "name": "Radio FG",
+   "fm": 98.2,
+   "dab": "11B",
+   "genres": [
+    "electro"
+   ],
+   "type": "locale",
+   "group": "FG",
+   "web": "https://www.radiofg.com",
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": [
+    {
+     "url": "https://radiofg.impek.com/fg.mp3",
+     "codec": "MP3",
+     "bitrate": null,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    },
+    {
+     "url": "https://radiofg.impek.com/fg",
+     "codec": "MP3",
+     "bitrate": null,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    }
+   ]
+  },
+  {
+   "id": "fg-chic",
+   "name": "FG Chic",
+   "fm": null,
+   "dab": "6A",
+   "genres": [
+    "electro",
+    "lounge"
+   ],
+   "type": "locale",
+   "group": "FG",
+   "web": "https://www.radiofg.com/fgchic",
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": "9f8179b0-08de-4a8e-8272-e8a70e196053",
+   "streams": [
+    {
+     "url": "https://radiofg.impek.com/fgc.mp3",
+     "codec": "MP3",
+     "bitrate": null,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    }
+   ]
+  },
+  {
+   "id": "fg-dance",
+   "name": "FG Dance",
+   "fm": null,
+   "dab": "6A",
+   "genres": [
+    "electro"
+   ],
+   "type": "locale",
+   "group": "FG",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "maxximum",
+   "name": "Maxximum",
+   "fm": null,
+   "dab": "6A",
+   "genres": [
+    "electro",
+    "dance"
+   ],
+   "type": "locale",
+   "group": "FG",
+   "web": "https://www.radiofg.com/maxximum",
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": "2db5a731-4c02-401d-a6ec-ae024a8a4f8f",
+   "streams": [
+    {
+     "url": "https://stream.rcs.revma.com/nwhyn2c6p98uv",
+     "codec": "MP3",
+     "bitrate": null,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:36Z"
+    }
+   ]
+  },
+  {
+   "id": "oui-fm",
+   "name": "Ouï FM",
+   "fm": 102.3,
+   "dab": "11B",
+   "genres": [
+    "rock"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "https://www.ouifm.fr",
+   "logo": "https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/oui-fm/images/logo_KoooUByHla.png",
+   "rfApi": null,
+   "rbUuid": "f3882c40-588c-4159-b231-a9d0f8986333",
+   "streams": [
+    {
+     "url": "https://ouifm.ice.infomaniak.ch/ouifm-high.aac",
+     "codec": "HE-AAC",
+     "bitrate": 96,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    },
+    {
+     "url": "https://ouifm.ice.infomaniak.ch/ouifm-high.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    }
+   ]
+  },
+  {
+   "id": "jazz-radio",
+   "name": "Jazz Radio",
+   "fm": null,
+   "dab": "11B",
+   "genres": [
+    "jazz"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": [
+    {
+     "url": "https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
+     "codec": "MP3",
+     "bitrate": 192,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    },
+    {
+     "url": "https://jazzradio.ice.infomaniak.ch/jazzradio-high.aac",
+     "codec": "HE-AAC",
+     "bitrate": 64,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    }
+   ]
+  },
+  {
+   "id": "chante-france",
+   "name": "Chante France",
+   "fm": 90.9,
+   "dab": "11B",
+   "genres": [
+    "chanson"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "http://www.chantefrance.com/",
+   "logo": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/chante-france/images/favicon.x-icon",
+   "rfApi": null,
+   "rbUuid": "9609743b-0601-11e8-ae97-52543be04c81",
+   "streams": [
+    {
+     "url": "https://stream.chantefrance.com/Chante_France",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 44100,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    },
+    {
+     "url": "https://chantefrance.ice.infomaniak.ch/chantefrance-128.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 44100,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    }
+   ]
+  },
+  {
+   "id": "generations",
+   "name": "Générations",
+   "fm": 88.2,
+   "dab": "11B",
+   "genres": [
+    "urbain"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "http://generations.fr/",
+   "logo": "http://generations.fr/media/radio/thumb/90x90_generations.png",
+   "rfApi": null,
+   "rbUuid": "960c17c6-0601-11e8-ae97-52543be04c81",
+   "streams": [
+    {
+     "url": "https://generationfm.ice.infomaniak.ch/generationfm-high.aac",
+     "codec": "HE-AAC",
+     "bitrate": 64,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    },
+    {
+     "url": "https://generationfm.ice.infomaniak.ch/generationfm-high.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    }
+   ]
+  },
+  {
+   "id": "voltage",
+   "name": "Voltage",
+   "fm": 96.9,
+   "dab": "11B",
+   "genres": [
+    "pop",
+    "hits"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "http://www.voltage.fr/",
+   "logo": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/voltage/images/favicon.ico",
+   "rfApi": null,
+   "rbUuid": "96150311-0601-11e8-ae97-52543be04c81",
+   "streams": [
+    {
+     "url": "https://start-voltage.ice.infomaniak.ch/start-voltage-high.aac",
+     "codec": "HE-AAC",
+     "bitrate": 192,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    },
+    {
+     "url": "https://start-voltage.ice.infomaniak.ch/start-voltage-high.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    }
+   ]
+  },
+  {
+   "id": "radio-notre-dame",
+   "name": "Radio Notre Dame",
+   "fm": 100.7,
+   "dab": "11B",
+   "genres": [
+    "religieuse",
+    "talk"
+   ],
+   "type": "associative",
+   "group": "Indés",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": [
+    {
+     "url": "https://windu.radionotredame.net/RadioNotreDame-Fm.mp3",
+     "codec": "MP3",
+     "bitrate": 192,
+     "sampleRate": 44100,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    }
+   ]
+  },
+  {
+   "id": "evasion",
+   "name": "Évasion",
+   "fm": null,
+   "dab": "11B",
+   "genres": [
+    "pop"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "http://www.radioevasion.net/",
+   "logo": "http://www.radioevasion.net/favicon.ico",
+   "rfApi": null,
+   "rbUuid": "961381b5-0601-11e8-ae97-52543be04c81",
+   "streams": [
+    {
+     "url": "https://stream.evasionfm.com/stream.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 44100,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    }
+   ]
+  },
+  {
+   "id": "melody",
+   "name": "Melody",
+   "fm": null,
+   "dab": "11B",
+   "genres": [
+    "oldies",
+    "chanson"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "beur-fm",
+   "name": "Beur FM",
+   "fm": 106.7,
+   "dab": "6A",
+   "genres": [
+    "monde",
+    "communautaire"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "http://www.beurfm.net/",
+   "logo": "http://www.beurfm.net/favicon.ico",
+   "rfApi": null,
+   "rbUuid": "96177334-0601-11e8-ae97-52543be04c81",
+   "streams": [
+    {
+     "url": "http://broadcast.infomaniak.ch/beurfm-high.aac",
+     "codec": "HE-AAC",
+     "bitrate": 64,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    },
+    {
+     "url": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    }
+   ]
+  },
+  {
+   "id": "france-maghreb-2",
+   "name": "France Maghreb 2",
+   "fm": null,
+   "dab": "6A",
+   "genres": [
+    "monde",
+    "communautaire"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": [
+    {
+     "url": "https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 44100,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    }
+   ]
+  },
+  {
+   "id": "africa-radio",
+   "name": "Africa Radio",
+   "fm": 107.5,
+   "dab": "6D",
+   "genres": [
+    "monde",
+    "communautaire"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "https://www.africaradio.com/",
+   "logo": "https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/africaradio/images/logo_RvDT2jBisJ.png",
+   "rfApi": null,
+   "rbUuid": "07b28e11-a8da-47ee-a96a-8930192c8163",
+   "streams": [
+    {
+     "url": "https://african1paris.ice.infomaniak.ch/african1paris-128.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    }
+   ]
+  },
+  {
+   "id": "tropiques-fm",
+   "name": "Tropiques FM",
+   "fm": 92.6,
+   "dab": "11A",
+   "genres": [
+    "monde",
+    "communautaire"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "https://www.tropiquesfm.com/",
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": "dfc627d6-5bb2-11ea-be63-52543be04c81",
+   "streams": [
+    {
+     "url": "https://listen.radioking.com/radio/8916/stream/19088",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    }
+   ]
+  },
+  {
+   "id": "radio-orient",
+   "name": "Radio Orient",
+   "fm": 94.3,
+   "dab": "6A",
+   "genres": [
+    "monde",
+    "communautaire"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "https://https//www.radioorient.com",
+   "logo": "https://cdn.instant.audio/images/logos/ecouterradioenligne-com/orient.png",
+   "rfApi": null,
+   "rbUuid": "e3ecb332-be77-4641-9b52-39cb4e79e042",
+   "streams": [
+    {
+     "url": "https://stream.rcs.revma.com/7hnrkawf4p8uv.mp3",
+     "codec": "MP3",
+     "bitrate": null,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    }
+   ]
+  },
+  {
+   "id": "ado",
+   "name": "Ado",
+   "fm": null,
+   "dab": "6A",
+   "genres": [
+    "urbain"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "https://www.ado.fr/",
+   "logo": "https://www.ado.fr/",
+   "rfApi": null,
+   "rbUuid": "7d568b56-a0fe-40c3-98ef-ec2ca9857b45",
+   "streams": [
+    {
+     "url": "https://start-adofm.ice.infomaniak.ch/start-adofm-high.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    }
+   ]
+  },
+  {
+   "id": "crooner-radio",
+   "name": "Crooner Radio",
+   "fm": null,
+   "dab": "6A",
+   "genres": [
+    "oldies",
+    "jazz"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "https://www.croonerradio.fr/",
+   "logo": "https://www.croonerradio.fr/favicon.ico",
+   "rfApi": null,
+   "rbUuid": "efedae79-7cd7-43c0-ad23-a149466efec8",
+   "streams": [
+    {
+     "url": "https://direct.croonerradio.fr/croonerradio-midfi.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    }
+   ]
+  },
+  {
+   "id": "live-festival",
+   "name": "Live Festival Radio",
+   "fm": null,
+   "dab": "6A",
+   "genres": [
+    "pop",
+    "rock"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "vivre-fm",
+   "name": "Vivre FM",
+   "fm": null,
+   "dab": "6A",
+   "genres": [
+    "talk",
+    "associative"
+   ],
+   "type": "associative",
+   "group": "Indés",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": [
+    {
+     "url": "https://vivrefm.ice.infomaniak.ch/vivrefm-128.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    }
+   ]
+  },
+  {
+   "id": "virgin-radio",
+   "name": "Virgin Radio",
+   "fm": null,
+   "dab": "6D",
+   "genres": [
+    "pop",
+    "rock"
+   ],
+   "type": "locale",
+   "group": "Lagardère",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": [
+    {
+     "url": "https://virginradio.ice.infomaniak.ch/virgin-radio.aac",
+     "codec": "HE-AAC",
+     "bitrate": 64,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    }
+   ]
+  },
+  {
+   "id": "antinea",
+   "name": "Antinéa Radio",
+   "fm": null,
+   "dab": "6D",
+   "genres": [
+    "pop"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "euradio",
+   "name": "Euradio",
+   "fm": null,
+   "dab": "6D",
+   "genres": [
+    "info",
+    "monde"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "https://euradio.fr/",
+   "logo": "https://euradio.fr/apple-touch-icon.png",
+   "rfApi": null,
+   "rbUuid": "d690383f-6012-4a12-a2b3-5676a50e6059",
+   "streams": [
+    {
+     "url": "https://euradio.fr/stream/",
+     "codec": "MP3",
+     "bitrate": 256,
+     "sampleRate": 44100,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    }
+   ]
+  },
+  {
+   "id": "radio-lovely",
+   "name": "Radio Lovely",
+   "fm": null,
+   "dab": "6D",
+   "genres": [
+    "pop"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "https://radiolovely.fr/",
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": "9ca106e3-1491-43e9-99e2-0ab135bc535e",
+   "streams": [
+    {
+     "url": "https://lovely.ice.infomaniak.ch/lovely-128.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 44100,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    }
+   ]
+  },
+  {
+   "id": "mbs",
+   "name": "MBS",
+   "fm": null,
+   "dab": "6D",
+   "genres": [
+    "pop"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "myzen",
+   "name": "MyZen Radio",
+   "fm": null,
+   "dab": "6D",
+   "genres": [
+    "lounge"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "https://www.myzen.tv/fr/radio/",
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": "51a279e4-7553-410f-85ea-375735211560",
+   "streams": [
+    {
+     "url": "https://stream.rcs.revma.com/gnn6u7czd8uvv",
+     "codec": "MP3",
+     "bitrate": null,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    }
+   ]
+  },
+  {
+   "id": "phare-fm",
+   "name": "Phare FM",
+   "fm": null,
+   "dab": "6D",
+   "genres": [
+    "religieuse"
+   ],
+   "type": "associative",
+   "group": "Indés",
+   "web": "https://pharefm.com/",
+   "logo": "https://static.mytuner.mobi/media/tvos_radios/FbDDtBn6v5.png",
+   "rfApi": null,
+   "rbUuid": "a5f8cc5b-f99c-4828-869b-bc3d84f1a80f",
+   "streams": [
+    {
+     "url": "https://str0.creacast.com/pharefm",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    }
+   ]
+  },
+  {
+   "id": "radio-bonheur",
+   "name": "Radio Bonheur",
+   "fm": null,
+   "dab": "6D",
+   "genres": [
+    "oldies"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "http://www.radiobonheur.com/",
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": "9612ef7e-0601-11e8-ae97-52543be04c81",
+   "streams": [
+    {
+     "url": "https://radiobonheur.ice.infomaniak.ch/radiobonheur-128-1.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 44100,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    }
+   ]
+  },
+  {
+   "id": "radio-courtoisie",
+   "name": "Radio Courtoisie",
+   "fm": 95.6,
+   "dab": "6D",
+   "genres": [
+    "talk"
+   ],
+   "type": "associative",
+   "group": "Indés",
+   "web": "http://www.radiocourtoisie.fr/",
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": "3ce7de6f-1d55-484f-bbe2-0e2d359a0ad9",
+   "streams": [
+    {
+     "url": "https://ice.creacast.com/radio-courtoisie",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 44100,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    }
+   ]
+  },
+  {
+   "id": "radio-maria",
+   "name": "Radio Maria",
+   "fm": null,
+   "dab": "6D",
+   "genres": [
+    "religieuse"
+   ],
+   "type": "associative",
+   "group": "Indés",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "urban-hit",
+   "name": "Urban Hit",
+   "fm": null,
+   "dab": "6D",
+   "genres": [
+    "urbain"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "http://www.urbanhit.fr/",
+   "logo": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/urbanhit/images/favicon.vnd.microsoft.icon",
+   "rfApi": null,
+   "rbUuid": "a6d75335-fead-47e7-a0cc-d2bf8924f739",
+   "streams": [
+    {
+     "url": "https://urbanhitblack.ice.infomaniak.ch/urbanhitblack128.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 44100,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    }
+   ]
+  },
+  {
+   "id": "aligre-fm",
+   "name": "Aligre FM",
+   "fm": 93.1,
+   "dab": "9A",
+   "genres": [
+    "talk",
+    "culture"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "ayp-fm",
+   "name": "AYP FM",
+   "fm": null,
+   "dab": "9A",
+   "genres": [
+    "communautaire"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": "http://radio-aypfm.com/",
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": "96179627-0601-11e8-ae97-52543be04c81",
+   "streams": [
+    {
+     "url": "https://stric6.streamakaci.com/radioayp.mp3",
+     "codec": "MP3",
+     "bitrate": 192,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    }
+   ]
+  },
+  {
+   "id": "cause-commune",
+   "name": "Cause Commune",
+   "fm": 93.1,
+   "dab": "9A",
+   "genres": [
+    "talk",
+    "culture"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "frequence-india",
+   "name": "Fréquence India",
+   "fm": null,
+   "dab": "9A",
+   "genres": [
+    "monde",
+    "communautaire"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "frequence-protestante",
+   "name": "Fréquence Protestante",
+   "fm": 100.7,
+   "dab": "9A",
+   "genres": [
+    "religieuse"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": [
+    {
+     "url": "https://freqpro.streamakaci.com/frequenceprotestante.mp3",
+     "codec": "MP3",
+     "bitrate": 160,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:37Z"
+    }
+   ]
+  },
+  {
+   "id": "onde-porteuse",
+   "name": "L'Onde porteuse",
+   "fm": null,
+   "dab": "9A",
+   "genres": [
+    "talk"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "radio-neo",
+   "name": "Radio Néo",
+   "fm": null,
+   "dab": "9A",
+   "genres": [
+    "rock",
+    "decouverte"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": "http://www.radioneo.org/",
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": "14dd545b-0444-4951-93a1-5bc773ed6273",
+   "streams": [
+    {
+     "url": "https://ice.creacast.com/radio-neo-paris",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    }
+   ]
+  },
+  {
+   "id": "radio-campus-paris",
+   "name": "Radio Campus Paris",
+   "fm": 93.9,
+   "dab": "9A",
+   "genres": [
+    "decouverte",
+    "culture"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": "https://www.radiocampusparis.org/",
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": "3859f931-66c5-4264-afc1-682e186d7263",
+   "streams": [
+    {
+     "url": "https://www.radiocampusparis.org/stream/",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    }
+   ]
+  },
+  {
+   "id": "radio-libertaire",
+   "name": "Radio Libertaire",
+   "fm": 89.4,
+   "dab": "9A",
+   "genres": [
+    "talk"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": "https://radio-libertaire.org/accueil.php",
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": "80405cc1-ce77-482a-bf81-6ef1f7e4476d",
+   "streams": [
+    {
+     "url": "http://media.radio-libertaire.org:8080/radiolib.mp3",
+     "codec": "MP3",
+     "bitrate": 256,
+     "sampleRate": 44100,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    }
+   ]
+  },
+  {
+   "id": "rme",
+   "name": "Radio Mandarin d'Europe",
+   "fm": null,
+   "dab": "9A",
+   "genres": [
+    "monde",
+    "communautaire"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "radio-ter",
+   "name": "Radio Tèr",
+   "fm": null,
+   "dab": "9A",
+   "genres": [
+    "monde"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "wrp",
+   "name": "World Radio Paris",
+   "fm": null,
+   "dab": "9A",
+   "genres": [
+    "monde",
+    "talk"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": "https://worldradioparis.org/",
+   "logo": "https://worldradioparis.org/wp-content/uploads/2023/09/cropped-worldradioparisicon4-1-192x192.png",
+   "rfApi": null,
+   "rbUuid": "dfba9e4f-30a5-4f05-8466-2fe4da69ca5f",
+   "streams": [
+    {
+     "url": "https://wrp.stream.dicast.fr/wrp-128.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    }
+   ]
+  },
+  {
+   "id": "frequence-paris-plurielle",
+   "name": "Fréquence Paris Plurielle",
+   "fm": 106.3,
+   "dab": null,
+   "genres": [
+    "talk"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": [
+    {
+     "url": "https://direct.rfpp.net/fpp.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 44100,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    }
+   ]
+  },
+  {
+   "id": "ici-et-maintenant",
+   "name": "Ici et Maintenant",
+   "fm": null,
+   "dab": null,
+   "genres": [
+    "talk"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": [
+    {
+     "url": "https://s64.radiolize.com/radio/8090/radio.mp3",
+     "codec": "AAC",
+     "bitrate": 64,
+     "sampleRate": 44100,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    }
+   ]
+  },
+  {
+   "id": "aasman",
+   "name": "Aasman Radio",
+   "fm": null,
+   "dab": "9B",
+   "genres": [
+    "monde",
+    "communautaire"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "cinemusic",
+   "name": "Cinemusic Radio",
+   "fm": null,
+   "dab": "9B",
+   "genres": [
+    "bo"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "https://cinemusic.fr/",
+   "logo": "https://cinemusicradio.com/upload/design/63b2a6080fdb31.87854813.png",
+   "rfApi": null,
+   "rbUuid": "dac522ea-640f-4e23-a90c-770e8cf7140f",
+   "streams": [
+    {
+     "url": "https://listen.radioking.com/radio/422/stream/62785",
+     "codec": "MP3",
+     "bitrate": 192,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:39Z"
+    }
+   ]
+  },
+  {
+   "id": "hope-radio",
+   "name": "Hope Radio",
+   "fm": null,
+   "dab": "9B",
+   "genres": [
+    "religieuse"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": "https://hoperadio.live/",
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": "7552cec8-155f-40d8-873d-eb77889a5e90",
+   "streams": [
+    {
+     "url": "https://listen.radioking.com/radio/273406/stream/318889",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    }
+   ]
+  },
+  {
+   "id": "idfm-enghien",
+   "name": "IdFM Radio Enghien",
+   "fm": null,
+   "dab": "9B",
+   "genres": [
+    "locale",
+    "decouverte"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "pi-mg",
+   "name": "PI-MG Radio",
+   "fm": null,
+   "dab": "9B",
+   "genres": [
+    "communautaire"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "radio-alfa",
+   "name": "Radio Alfa",
+   "fm": 98.6,
+   "dab": "9B",
+   "genres": [
+    "monde",
+    "communautaire"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "https://radioalfa.net/",
+   "logo": "https://radioalfa.net/wp-content/uploads/2021/03/favicon.png",
+   "rfApi": null,
+   "rbUuid": "dc2ee802-844d-4723-9c38-70596707655c",
+   "streams": [
+    {
+     "url": "https://stream.rcs.revma.com/amrbkhqtkm0uv",
+     "codec": "MP3",
+     "bitrate": null,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    }
+   ]
+  },
+  {
+   "id": "radio-fuego",
+   "name": "Radio Fuego",
+   "fm": null,
+   "dab": "9B",
+   "genres": [
+    "latino"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "https://radiofuego.fr/",
+   "logo": "https://radiofuego.fr/_image?href=%2F_astro%2Flogo_radiofuego.bYfbVYJd.png&w=120&h=60&f=webp",
+   "rfApi": null,
+   "rbUuid": "0e5613f5-fe82-48b6-8ed0-35c0a26a4df6",
+   "streams": [
+    {
+     "url": "https://icy-zurich.mpbnl.nl/radiofuego",
+     "codec": "HE-AAC",
+     "bitrate": 192,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    },
+    {
+     "url": "https://n12a-eu.rcs.revma.com/dapwbz2befcwv",
+     "codec": "MP3",
+     "bitrate": null,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    }
+   ]
+  },
+  {
+   "id": "radio-j",
+   "name": "Radio J",
+   "fm": 94.8,
+   "dab": "9B",
+   "genres": [
+    "communautaire",
+    "talk"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "rcj",
+   "name": "RCJ",
+   "fm": 94.8,
+   "dab": "9B",
+   "genres": [
+    "communautaire",
+    "talk"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": "http://radiorcj.info/",
+   "logo": "http://radiorcj.info/wp-content/themes/RCJ-Wordpress/favicon.ico",
+   "rfApi": null,
+   "rbUuid": "96456494-0601-11e8-ae97-52543be04c81",
+   "streams": [
+    {
+     "url": "https://str0.creacast.com/radio-rcj",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 48000,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    }
+   ]
+  },
+  {
+   "id": "radio-shalom",
+   "name": "Radio Shalom",
+   "fm": 94.8,
+   "dab": null,
+   "genres": [
+    "communautaire",
+    "talk"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "judaiques-fm",
+   "name": "Judaïques FM",
+   "fm": 94.8,
+   "dab": null,
+   "genres": [
+    "communautaire",
+    "talk"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "radio-pitchoun",
+   "name": "Radio Pitchoun",
+   "fm": null,
+   "dab": "9B",
+   "genres": [
+    "enfants"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "http://tvradio-pitchoun.fr/",
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": "2534c8ea-1005-47a4-b199-cb0c2c1a18c9",
+   "streams": [
+    {
+     "url": "https://webradio.tvradio-pitchoun.fr:8443/radiopitchoun.aac",
+     "codec": "AAC",
+     "bitrate": null,
+     "sampleRate": null,
+     "format": "http",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    }
+   ]
+  },
+  {
+   "id": "sensations-idf",
+   "name": "Radio Sensations Île-de-France",
+   "fm": null,
+   "dab": "9B",
+   "genres": [
+    "oldies",
+    "pop"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": [
+    {
+     "url": "https://sensations.ice.infomaniak.ch/sensations.aac",
+     "codec": "AAC",
+     "bitrate": 128,
+     "sampleRate": 44100,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:39Z"
+    }
+   ]
+  },
+  {
+   "id": "tek-radio",
+   "name": "Tek Radio",
+   "fm": null,
+   "dab": "9B",
+   "genres": [
+    "electro"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "collector-radio",
+   "name": "Collector Radio",
+   "fm": null,
+   "dab": "11A",
+   "genres": [
+    "oldies",
+    "rock"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "https://www.collectorradio.fr/",
+   "logo": "https://images.lesindesradios.fr/filters:quality(100)/radios/collector-radio/images/logo.png",
+   "rfApi": null,
+   "rbUuid": "f69d8609-4e24-4db2-9114-f9fb126df890",
+   "streams": [
+    {
+     "url": "https://ouifm6.ice.infomaniak.ch/collector-rnt.mp3?ua=InfomaniakPlayer",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    },
+    {
+     "url": "https://ouifm6.ice.infomaniak.ch/ouifm6-128.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    }
+   ]
+  },
+  {
+   "id": "espace-fm",
+   "name": "Espace",
+   "fm": null,
+   "dab": "11A",
+   "genres": [
+    "pop"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "http://www.radioespace.com/",
+   "logo": "http://www.radioespace.com/favicon.ico",
+   "rfApi": null,
+   "rbUuid": "9616b635-0601-11e8-ae97-52543be04c81",
+   "streams": [
+    {
+     "url": "https://radioespace.ice.infomaniak.ch/radioespace-high.mp3",
+     "codec": "MP3",
+     "bitrate": 192,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    },
+    {
+     "url": "https://radioespace.ice.infomaniak.ch/radioespace-high.aac",
+     "codec": "HE-AAC",
+     "bitrate": 64,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    }
+   ]
+  },
+  {
+   "id": "figaro-radio",
+   "name": "Figaro Radio",
+   "fm": null,
+   "dab": "11A",
+   "genres": [
+    "info"
+   ],
+   "type": "locale",
+   "group": "Le Figaro",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "la-grande-musique",
+   "name": "La Grande Musique",
+   "fm": null,
+   "dab": "11A",
+   "genres": [
+    "classique"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "https://www.lagrandemusique.fr/",
+   "logo": "https://static.wixstatic.com/media/6ee214_ca4e9e9812994f4e868ce25d93722f71~mv2.png/v1/fill/w_324,h_212,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1200_800%20logo%20LGMpremium.png",
+   "rfApi": null,
+   "rbUuid": "b127e0da-26c8-417a-96e1-9424a30d5d17",
+   "streams": [
+    {
+     "url": "https://stream.rcs.revma.com/186wgykpq42vv",
+     "codec": "MP3",
+     "bitrate": null,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    },
+    {
+     "url": "https://stream.rcs.revma.com/b774g1gqh6bwv",
+     "codec": "MP3",
+     "bitrate": null,
+     "sampleRate": null,
+     "format": "http",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:38Z"
+    }
+   ]
+  },
+  {
+   "id": "les-inrocks-radio",
+   "name": "Les Inrocks Radio",
+   "fm": null,
+   "dab": "11A",
+   "genres": [
+    "rock",
+    "decouverte"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "https://www.lesinrocks.com/radios/les-inrocks-radio/",
+   "logo": "https://www.lesinrocks.com/wp-content/themes/lnei-wp-theme-child-lesinrocks/resources/assets/images/radio-lesinrocks.jpg",
+   "rfApi": null,
+   "rbUuid": "2769d9ac-6e53-427d-b7c0-975335d89012",
+   "streams": [
+    {
+     "url": "https://inrocksradio.ice.infomaniak.ch/inrocksradio-128.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:39Z"
+    }
+   ]
+  },
+  {
+   "id": "paname",
+   "name": "Paname",
+   "fm": null,
+   "dab": "11A",
+   "genres": [
+    "pop"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "radio-life",
+   "name": "Radio Life",
+   "fm": null,
+   "dab": "11A",
+   "genres": [
+    "pop"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "radio-monaco",
+   "name": "Radio Monaco",
+   "fm": null,
+   "dab": "11A",
+   "genres": [
+    "pop"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": [
+    {
+     "url": "https://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:39Z"
+    }
+   ]
+  },
+  {
+   "id": "sanef-107-7",
+   "name": "Sanef 107.7",
+   "fm": 107.7,
+   "dab": "11A",
+   "genres": [
+    "info",
+    "trafic"
+   ],
+   "type": "locale",
+   "group": "Autoroutes",
+   "web": "https://www.sanef.com/fr/mon-voyage/radio-sanef-1077",
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": "b78399af-f6b5-462c-9fae-5742062904bb",
+   "streams": [
+    {
+     "url": "https://sanef.ice.infomaniak.ch/sanef1077-idf.mp3",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": 44100,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:39Z"
+    }
+   ]
+  },
+  {
+   "id": "sequence-radio",
+   "name": "Séquence Radio",
+   "fm": null,
+   "dab": "11A",
+   "genres": [
+    "pop"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "trace-radio",
+   "name": "Trace Radio",
+   "fm": null,
+   "dab": "11A",
+   "genres": [
+    "urbain"
+   ],
+   "type": "locale",
+   "group": "Trace",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "tsugi-radio",
+   "name": "Tsugi Radio",
+   "fm": null,
+   "dab": "11A",
+   "genres": [
+    "electro"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": "https://www.tsugi.fr/tsugi-radio/",
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": "3c4caeb0-56ce-11e8-b0ce-52543be04c81",
+   "streams": [
+    {
+     "url": "https://www.radioking.com/play/tsugi-radio",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:39Z"
+    },
+    {
+     "url": "https://listen.radioking.com/radio/1906/stream/6029",
+     "codec": "MP3",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "std",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:39Z"
+    }
+   ]
+  },
+  {
+   "id": "hitmix",
+   "name": "Hitmix Radio",
+   "fm": null,
+   "dab": null,
+   "genres": [
+    "pop",
+    "hits"
+   ],
+   "type": "locale",
+   "group": "Indés",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": []
+  },
+  {
+   "id": "radio-soleil",
+   "name": "Radio Soleil",
+   "fm": null,
+   "dab": null,
+   "genres": [
+    "monde",
+    "communautaire"
+   ],
+   "type": "associative",
+   "group": "Associatives",
+   "web": null,
+   "logo": null,
+   "rfApi": null,
+   "rbUuid": null,
+   "streams": [
+    {
+     "url": "https://radiosoleil.ice.infomaniak.ch/radiosoleil-128.mp3",
+     "codec": "HE-AAC",
+     "bitrate": 128,
+     "sampleRate": null,
+     "format": "icecast",
+     "quality": "max",
+     "ok": true,
+     "lastChecked": "2026-11-18T15:47:39Z"
+    }
+   ]
+  }
+ ]
+}
