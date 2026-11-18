@@ -17,6 +17,8 @@ Catalogue utilisé par l'application Android **Ondes IDF**. L'application télé
    - `"streams": [{"url": "…"}]` impose des flux (prioritaires sur la recherche automatique).
    - `"q"` / `"rbNames"` aident la recherche radio-browser ; `"skipRb": true` la désactive.
    - `"logo"` impose un logo.
+   - `"geoFR": true` pour une radio qui bloque les connexions hors de France : la vérification
+     tourne sur les serveurs GitHub (États-Unis), ses échecs y sont signalés sans retirer le flux.
 2. `python scripts/build_catalog.py <id>` pour régénérer cette station.
 3. Valider et pousser : le workflow vérifie aussitôt les flux.
 

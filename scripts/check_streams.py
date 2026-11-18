@@ -27,7 +27,9 @@ MAX_FAILS = 3   # nuits d'échec consécutives avant de déclarer un flux mort
 RETRY_DELAY = 5  # secondes avant le second essai
 
 
-def recheck(stream: dict) -> dict:
+def recheck(stream: dict, geo_fr: bool = False) -> dict:
+    """geo_fr : flux bloqué hors de France (seed "geoFR": true) ; la vérification
+    tourne aux États-Unis, ses échecs sont donc signalés mais ne retirent jamais le flux."""
     info = probe(stream["url"])
     if not info.get("ok"):
         time.sleep(RETRY_DELAY)
@@ -37,7 +39,7 @@ def recheck(stream: dict) -> dict:
     if not info.get("ok"):
         s["fails"] = s.get("fails", 0) + 1
         # un flux déjà mort le reste ; un flux vivant a droit à MAX_FAILS - 1 échecs
-        s["ok"] = bool(stream.get("ok", True)) and s["fails"] < MAX_FAILS
+        s["ok"] = bool(stream.get("ok", True)) and (geo_fr or s["fails"] < MAX_FAILS)
         return s
     s["ok"] = True
     s.pop("fails", None)
@@ -56,7 +58,8 @@ def main() -> int:
 
     flat = [(i, s) for i, st in enumerate(stations) for s in st["streams"]]
     with ThreadPoolExecutor(max_workers=12) as pool:
-        checked = list(pool.map(lambda t: recheck(t[1]), flat))
+        checked = list(pool.map(
+            lambda t: recheck(t[1], bool(seeds.get(stations[t[0]]["id"], {}).get("geoFR"))), flat))
     for st in stations:
         st["streams"] = []
     for (i, _), s in zip(flat, checked):

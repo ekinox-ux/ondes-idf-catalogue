@@ -54,7 +54,7 @@
     {"id":"ado","name":"Ado","fm":null,"dab":"6A","genres":["urbain"],"type":"locale","group":"Indés","q":"Ado FM"},
     {"id":"crooner-radio","name":"Crooner Radio","fm":null,"dab":"6A","genres":["oldies","jazz"],"type":"locale","group":"Indés"},
     {"id":"live-festival","name":"Live Festival Radio","fm":null,"dab":"6A","genres":["pop","rock"],"type":"locale","group":"Indés","q":"Live Festival"},
-    {"id":"vivre-fm","name":"Vivre FM","fm":null,"dab":"6A","genres":["talk","associative"],"type":"associative","group":"Indés","streams":[{"url":"https://vivrefm.ice.infomaniak.ch/vivrefm-128.mp3"}]},
+    {"id":"vivre-fm","name":"Vivre FM","fm":null,"dab":"6A","genres":["talk","associative"],"type":"associative","group":"Indés","streams":[{"url":"https://vivrefm.ice.infomaniak.ch/vivrefm-128.mp3"}],"geoFR":true},
     {"id":"virgin-radio","name":"Virgin Radio","fm":null,"dab":"6D","genres":["pop","rock"],"type":"locale","group":"Lagardère","streams":[{"url":"https://virginradio.ice.infomaniak.ch/virgin-radio.aac"}]},
     {"id":"antinea","name":"Antinéa Radio","fm":null,"dab":"6D","genres":["pop"],"type":"locale","group":"Indés","q":"Antinea","web":"https://www.antinearadio.fr","streams":[{"url":"https://listen.radioking.com/radio/6640/stream/347"}]},
     {"id":"euradio","name":"Euradio","fm":null,"dab":"6D","genres":["info","monde"],"type":"locale","group":"Indés"},
