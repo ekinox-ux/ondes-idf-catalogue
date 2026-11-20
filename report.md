@@ -1,4 +1,4 @@
-# Rapport de vérification — 2026-11-19T10:16:24Z
+# Rapport de vérification — 2026-11-20T09:58:38Z
 
 - Stations jouables : **97/107**
 - Flux testés : 144, valides : 143
