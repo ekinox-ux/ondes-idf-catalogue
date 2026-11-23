@@ -1,8 +1,8 @@
-# Rapport de vérification — 2026-11-22T09:43:21Z
+# Rapport de vérification — 2026-11-23T10:42:10Z
 
 - Stations jouables : **97/107**
-- Flux testés : 144, valides : 143
-- En échec mais conservés (moins de 3 nuits) : vivre-fm
+- Flux testés : 144, valides : 142
+- En échec mais conservés (moins de 3 nuits) : rme, vivre-fm
 - Réparées automatiquement : aucune
 - Ajoutées depuis la seed : aucune
 - Sans flux : live-festival, frequence-india, radio-ter, aasman, pi-mg, judaiques-fm, tek-radio, paname, trace-radio, hitmix
