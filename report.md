@@ -1,11 +1,11 @@
-# Rapport de vérification — 2026-11-24T12:25:53Z
+# Rapport de vérification — 2026-11-25T11:13:40Z
 
-- Stations jouables : **97/107**
-- Flux testés : 144, valides : 141
-- En échec mais conservés (moins de 3 nuits) : radio-fuego, rme, vivre-fm
+- Stations jouables : **96/107**
+- Flux testés : 144, valides : 142
+- En échec mais conservés (moins de 3 nuits) : vivre-fm
 - Réparées automatiquement : aucune
 - Ajoutées depuis la seed : aucune
-- Sans flux : live-festival, frequence-india, radio-ter, aasman, pi-mg, judaiques-fm, tek-radio, paname, trace-radio, hitmix
+- Sans flux : live-festival, frequence-india, rme, radio-ter, aasman, pi-mg, judaiques-fm, tek-radio, paname, trace-radio, hitmix
 
 | Station | Flux OK | Meilleur flux |
 |---|---|---|
@@ -83,7 +83,7 @@
 | Radio Néo | 1/1 | MP3 128k |
 | Radio Campus Paris | 1/1 | MP3 128k |
 | Radio Libertaire | 1/1 | MP3 256k |
-| Radio Mandarin d'Europe | 1/1 | MP3 128k |
+| Radio Mandarin d'Europe | 0/1 | — |
 | Radio Tèr | 0/0 | — |
 | World Radio Paris | 1/1 | MP3 128k |
 | Fréquence Paris Plurielle | 1/1 | MP3 128k |
