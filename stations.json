@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-27T10:49:05Z",
+ "generatedAt": "2026-11-28T10:19:42Z",
  "stations": [
   {
    "id": "france-inter",
@@ -26,7 +26,7 @@
      "format": "hls",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:39Z"
+     "lastChecked": "2026-11-28T10:19:10Z"
     },
     {
      "url": "https://icecast.radiofrance.fr/franceinter-hifi.aac",
@@ -36,7 +36,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:40Z"
+     "lastChecked": "2026-11-28T10:19:11Z"
     },
     {
      "url": "https://icecast.radiofrance.fr/franceinter-midfi.mp3",
@@ -46,7 +46,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:40Z"
+     "lastChecked": "2026-11-28T10:19:11Z"
     },
     {
      "url": "https://icecast.radiofrance.fr/franceinter-lofi.aac",
@@ -56,7 +56,7 @@
      "format": "icecast",
      "quality": "eco",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:40Z"
+     "lastChecked": "2026-11-28T10:19:11Z"
     }
    ]
   },
@@ -83,7 +83,7 @@
      "format": "hls",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:39Z"
+     "lastChecked": "2026-11-28T10:19:10Z"
     },
     {
      "url": "https://icecast.radiofrance.fr/franceinfo-hifi.aac",
@@ -93,7 +93,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:40Z"
+     "lastChecked": "2026-11-28T10:19:11Z"
     },
     {
      "url": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3",
@@ -103,7 +103,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:40Z"
+     "lastChecked": "2026-11-28T10:19:11Z"
     },
     {
      "url": "https://icecast.radiofrance.fr/franceinfo-lofi.aac",
@@ -113,7 +113,7 @@
      "format": "icecast",
      "quality": "eco",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:40Z"
+     "lastChecked": "2026-11-28T10:19:11Z"
     }
    ]
   },
@@ -141,7 +141,7 @@
      "format": "hls",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:39Z"
+     "lastChecked": "2026-11-28T10:19:10Z"
     },
     {
      "url": "https://icecast.radiofrance.fr/franceculture-hifi.aac",
@@ -151,7 +151,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:40Z"
+     "lastChecked": "2026-11-28T10:19:11Z"
     },
     {
      "url": "https://icecast.radiofrance.fr/franceculture-midfi.mp3",
@@ -161,7 +161,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:40Z"
+     "lastChecked": "2026-11-28T10:19:11Z"
     },
     {
      "url": "https://icecast.radiofrance.fr/franceculture-lofi.aac",
@@ -171,7 +171,7 @@
      "format": "icecast",
      "quality": "eco",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:40Z"
+     "lastChecked": "2026-11-28T10:19:11Z"
     }
    ]
   },
@@ -198,7 +198,7 @@
      "format": "hls",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:39Z"
+     "lastChecked": "2026-11-28T10:19:10Z"
     },
     {
      "url": "https://icecast.radiofrance.fr/francemusique-hifi.aac",
@@ -208,7 +208,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:40Z"
+     "lastChecked": "2026-11-28T10:19:11Z"
     },
     {
      "url": "https://icecast.radiofrance.fr/francemusique-midfi.mp3",
@@ -218,7 +218,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:40Z"
+     "lastChecked": "2026-11-28T10:19:11Z"
     },
     {
      "url": "https://icecast.radiofrance.fr/francemusique-lofi.aac",
@@ -228,7 +228,7 @@
      "format": "icecast",
      "quality": "eco",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:40Z"
+     "lastChecked": "2026-11-28T10:19:11Z"
     }
    ]
   },
@@ -256,7 +256,7 @@
      "format": "hls",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:40Z"
+     "lastChecked": "2026-11-28T10:19:11Z"
     },
     {
      "url": "https://icecast.radiofrance.fr/fip-hifi.aac",
@@ -266,7 +266,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:41Z"
+     "lastChecked": "2026-11-28T10:19:12Z"
     },
     {
      "url": "https://icecast.radiofrance.fr/fip-midfi.mp3",
@@ -276,7 +276,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:41Z"
+     "lastChecked": "2026-11-28T10:19:12Z"
     },
     {
      "url": "https://icecast.radiofrance.fr/fip-lofi.aac",
@@ -286,7 +286,7 @@
      "format": "icecast",
      "quality": "eco",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:41Z"
+     "lastChecked": "2026-11-28T10:19:12Z"
     }
    ]
   },
@@ -313,7 +313,7 @@
      "format": "hls",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:40Z"
+     "lastChecked": "2026-11-28T10:19:11Z"
     },
     {
      "url": "https://icecast.radiofrance.fr/mouv-hifi.aac",
@@ -323,7 +323,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:41Z"
+     "lastChecked": "2026-11-28T10:19:12Z"
     },
     {
      "url": "https://icecast.radiofrance.fr/mouv-midfi.mp3",
@@ -333,7 +333,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:41Z"
+     "lastChecked": "2026-11-28T10:19:12Z"
     },
     {
      "url": "https://icecast.radiofrance.fr/mouv-lofi.aac",
@@ -343,7 +343,7 @@
      "format": "icecast",
      "quality": "eco",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:41Z"
+     "lastChecked": "2026-11-28T10:19:12Z"
     }
    ]
   },
@@ -371,7 +371,7 @@
      "format": "hls",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:40Z"
+     "lastChecked": "2026-11-28T10:19:11Z"
     },
     {
      "url": "https://icecast.radiofrance.fr/fb1071-hifi.aac",
@@ -381,7 +381,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:41Z"
+     "lastChecked": "2026-11-28T10:19:12Z"
     },
     {
      "url": "https://icecast.radiofrance.fr/fb1071-midfi.mp3",
@@ -391,7 +391,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:41Z"
+     "lastChecked": "2026-11-28T10:19:12Z"
     },
     {
      "url": "https://icecast.radiofrance.fr/fb1071-lofi.aac",
@@ -401,7 +401,7 @@
      "format": "icecast",
      "quality": "eco",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:41Z"
+     "lastChecked": "2026-11-28T10:19:12Z"
     }
    ]
   },
@@ -428,7 +428,7 @@
      "format": "hls",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:40Z"
+     "lastChecked": "2026-11-28T10:19:11Z"
     }
    ]
   },
@@ -456,7 +456,7 @@
      "format": "icecast",
      "quality": "eco",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:41Z"
+     "lastChecked": "2026-11-28T10:19:13Z"
     }
    ]
   },
@@ -484,7 +484,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:42Z"
+     "lastChecked": "2026-11-28T10:19:13Z"
     }
    ]
   },
@@ -512,7 +512,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:41Z"
+     "lastChecked": "2026-11-28T10:19:12Z"
     }
    ]
   },
@@ -540,7 +540,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:41Z"
+     "lastChecked": "2026-11-28T10:19:13Z"
     }
    ]
   },
@@ -568,7 +568,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:41Z"
+     "lastChecked": "2026-11-28T10:19:13Z"
     }
    ]
   },
@@ -596,7 +596,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:42Z"
+     "lastChecked": "2026-11-28T10:19:13Z"
     },
     {
      "url": "https://europe1.lmn.fm/europe1.mp3",
@@ -606,7 +606,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:42Z"
+     "lastChecked": "2026-11-28T10:19:13Z"
     }
    ]
   },
@@ -634,7 +634,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:42Z"
+     "lastChecked": "2026-11-28T10:19:13Z"
     },
     {
      "url": "https://europe2.lmn.fm/europe2.mp3",
@@ -644,7 +644,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:42Z"
+     "lastChecked": "2026-11-28T10:19:14Z"
     }
    ]
   },
@@ -671,7 +671,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:42Z"
+     "lastChecked": "2026-11-28T10:19:13Z"
     },
     {
      "url": "https://stream.rfm.fr/rfm.mp3",
@@ -681,7 +681,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:42Z"
+     "lastChecked": "2026-11-28T10:19:13Z"
     }
    ]
   },
@@ -710,7 +710,7 @@
      "format": "hls",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:41Z"
+     "lastChecked": "2026-11-28T10:19:12Z"
     },
     {
      "url": "https://audio.bfmtv.com/rmcradio_128.mp3",
@@ -720,7 +720,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:42Z"
+     "lastChecked": "2026-11-28T10:19:14Z"
     }
    ]
   },
@@ -748,7 +748,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:42Z"
+     "lastChecked": "2026-11-28T10:19:14Z"
     }
    ]
   },
@@ -775,7 +775,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:43Z"
+     "lastChecked": "2026-11-28T10:19:14Z"
     }
    ]
   },
@@ -803,7 +803,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:43Z"
+     "lastChecked": "2026-11-28T10:19:15Z"
     }
    ]
   },
@@ -830,7 +830,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:42Z"
+     "lastChecked": "2026-11-28T10:19:14Z"
     }
    ]
   },
@@ -857,7 +857,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:43Z"
+     "lastChecked": "2026-11-28T10:19:15Z"
     },
     {
      "url": "https://streaming.nrjaudio.fm/ouwgwqsk6j4d?origine=playernostalgie&aw_0_req.userConsentV2=CQaT2UAQaT2UAAHABBENCDFsAP_gAEPgAAqIJ2tR_G_fbWlj-TZ1YfpkeYwP99gj7sQxBgSJk24FyJvW7JwSx2ExJAzapqIKmRIAu3TBAQNlGIDURUAAIIgVqSDMaESUgTNKJ6BEiFMRI2JYCFxvm4FDWQCY5kp99lcxmB-N7dr8yNzgAgAAAUCAIQAgAIABAACIAAAgAAAAAQAAAiwACAAAAAAAAEAAAFAAAABAAAEAAAACAAAABAAAIJ2gAmGhUQQlgQABAoGAECAAQVhABQIAgAASBggIASBgU5AwAXWEyAAAKAAYIAQAAgwABAAAJAAhEAEABAIAAIBAIAAQAAAAIACBAADABYiAQAAgOgYBAQQCBYAJGZVBpgQgAJBASyFCAAAAgAACAAQAAAIAAAAAAAAAgAAAAAAAAggAAAAAAAAAAAAAAAAAAEABAAAAAAAAAAAAABAAAIAA.f_wACHwAAAAA&aw_0_1st.station=",
@@ -867,7 +867,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:43Z"
+     "lastChecked": "2026-11-28T10:19:15Z"
     },
     {
      "url": "https://streaming.nrjaudio.fm/oug7girb92oc?origine=fluxradios",
@@ -877,7 +877,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:43Z"
+     "lastChecked": "2026-11-28T10:19:15Z"
     }
    ]
   },
@@ -904,7 +904,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:42Z"
+     "lastChecked": "2026-11-28T10:19:14Z"
     }
    ]
   },
@@ -931,7 +931,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:43Z"
+     "lastChecked": "2026-11-28T10:19:15Z"
     }
    ]
   },
@@ -958,7 +958,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:43Z"
+     "lastChecked": "2026-11-28T10:19:15Z"
     },
     {
      "url": "https://icecast.skyrock.net/s/natio_mp3_128k",
@@ -968,7 +968,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:43Z"
+     "lastChecked": "2026-11-28T10:19:16Z"
     }
    ]
   },
@@ -995,7 +995,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:43Z"
+     "lastChecked": "2026-11-28T10:19:15Z"
     },
     {
      "url": "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3",
@@ -1005,7 +1005,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:43Z"
+     "lastChecked": "2026-11-28T10:19:15Z"
     }
    ]
   },
@@ -1032,7 +1032,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:44Z"
+     "lastChecked": "2026-11-28T10:19:16Z"
     }
    ]
   },
@@ -1060,7 +1060,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:44Z"
+     "lastChecked": "2026-11-28T10:19:16Z"
     },
     {
      "url": "https://start-latina.ice.infomaniak.ch/start-latina-high.mp3",
@@ -1070,7 +1070,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:44Z"
+     "lastChecked": "2026-11-28T10:19:16Z"
     }
    ]
   },
@@ -1098,7 +1098,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:44Z"
+     "lastChecked": "2026-11-28T10:19:16Z"
     }
    ]
   },
@@ -1125,7 +1125,7 @@
      "format": "hls",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:43Z"
+     "lastChecked": "2026-11-28T10:19:15Z"
     }
    ]
   },
@@ -1153,7 +1153,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:44Z"
+     "lastChecked": "2026-11-28T10:19:16Z"
     },
     {
      "url": "https://ice.creacast.com/sudradio",
@@ -1163,7 +1163,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:44Z"
+     "lastChecked": "2026-11-28T10:19:16Z"
     },
     {
      "url": "https://live.sudradio.fr/sudradio-mp3-128",
@@ -1173,7 +1173,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:45Z"
+     "lastChecked": "2026-11-28T10:19:17Z"
     }
    ]
   },
@@ -1200,7 +1200,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:45Z"
+     "lastChecked": "2026-11-28T10:19:16Z"
     }
    ]
   },
@@ -1228,7 +1228,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:45Z"
+     "lastChecked": "2026-11-28T10:19:17Z"
     }
    ]
   },
@@ -1255,7 +1255,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:45Z"
+     "lastChecked": "2026-11-28T10:19:17Z"
     },
     {
      "url": "https://radiofg.impek.com/fg",
@@ -1265,7 +1265,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:45Z"
+     "lastChecked": "2026-11-28T10:19:17Z"
     }
    ]
   },
@@ -1293,7 +1293,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:45Z"
+     "lastChecked": "2026-11-28T10:19:17Z"
     }
    ]
   },
@@ -1320,7 +1320,7 @@
      "format": "http",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:45Z"
+     "lastChecked": "2026-11-28T10:19:17Z"
     }
    ]
   },
@@ -1348,7 +1348,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:44Z"
+     "lastChecked": "2026-11-28T10:19:16Z"
     }
    ]
   },
@@ -1375,7 +1375,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:45Z"
+     "lastChecked": "2026-11-28T10:19:17Z"
     },
     {
      "url": "https://ouifm.ice.infomaniak.ch/ouifm-high.mp3",
@@ -1385,7 +1385,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:45Z"
+     "lastChecked": "2026-11-28T10:19:18Z"
     }
    ]
   },
@@ -1412,7 +1412,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:45Z"
+     "lastChecked": "2026-11-28T10:19:18Z"
     },
     {
      "url": "https://jazzradio.ice.infomaniak.ch/jazzradio-high.aac",
@@ -1422,7 +1422,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:45Z"
+     "lastChecked": "2026-11-28T10:19:18Z"
     }
    ]
   },
@@ -1449,7 +1449,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:46Z"
+     "lastChecked": "2026-11-28T10:19:18Z"
     },
     {
      "url": "https://chantefrance.ice.infomaniak.ch/chantefrance-128.mp3",
@@ -1459,7 +1459,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:46Z"
+     "lastChecked": "2026-11-28T10:19:18Z"
     }
    ]
   },
@@ -1486,7 +1486,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:46Z"
+     "lastChecked": "2026-11-28T10:19:18Z"
     },
     {
      "url": "https://generationfm.ice.infomaniak.ch/generationfm-high.mp3",
@@ -1496,7 +1496,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:46Z"
+     "lastChecked": "2026-11-28T10:19:18Z"
     }
    ]
   },
@@ -1524,7 +1524,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:46Z"
+     "lastChecked": "2026-11-28T10:19:18Z"
     },
     {
      "url": "https://start-voltage.ice.infomaniak.ch/start-voltage-high.mp3",
@@ -1534,7 +1534,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:46Z"
+     "lastChecked": "2026-11-28T10:19:18Z"
     }
    ]
   },
@@ -1562,7 +1562,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:46Z"
+     "lastChecked": "2026-11-28T10:19:17Z"
     }
    ]
   },
@@ -1589,7 +1589,8 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:47Z"
+     "lastChecked": "2026-11-28T10:19:26Z",
+     "fails": 1
     }
    ]
   },
@@ -1617,7 +1618,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:46Z"
+     "lastChecked": "2026-11-28T10:19:18Z"
     }
    ]
   },
@@ -1645,7 +1646,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:47Z"
+     "lastChecked": "2026-11-28T10:19:19Z"
     },
     {
      "url": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
@@ -1655,7 +1656,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:47Z"
+     "lastChecked": "2026-11-28T10:19:19Z"
     }
    ]
   },
@@ -1683,7 +1684,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:47Z"
+     "lastChecked": "2026-11-28T10:19:19Z"
     }
    ]
   },
@@ -1711,7 +1712,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:47Z"
+     "lastChecked": "2026-11-28T10:19:19Z"
     }
    ]
   },
@@ -1739,7 +1740,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:46Z"
+     "lastChecked": "2026-11-28T10:19:19Z"
     }
    ]
   },
@@ -1767,7 +1768,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:46Z"
+     "lastChecked": "2026-11-28T10:19:19Z"
     }
    ]
   },
@@ -1794,7 +1795,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:47Z"
+     "lastChecked": "2026-11-28T10:19:20Z"
     }
    ]
   },
@@ -1822,7 +1823,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:48Z"
+     "lastChecked": "2026-11-28T10:19:21Z"
     }
    ]
   },
@@ -1867,8 +1868,8 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:55Z",
-     "fails": 12
+     "lastChecked": "2026-11-28T10:19:27Z",
+     "fails": 13
     }
    ]
   },
@@ -1896,7 +1897,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:48Z"
+     "lastChecked": "2026-11-28T10:19:20Z"
     }
    ]
   },
@@ -1923,7 +1924,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:47Z"
+     "lastChecked": "2026-11-28T10:19:19Z"
     }
    ]
   },
@@ -1951,7 +1952,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:47Z"
+     "lastChecked": "2026-11-28T10:19:19Z"
     }
    ]
   },
@@ -1978,7 +1979,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:48Z"
+     "lastChecked": "2026-11-28T10:19:21Z"
     }
    ]
   },
@@ -2005,7 +2006,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:48Z"
+     "lastChecked": "2026-11-28T10:19:21Z"
     },
     {
      "url": "https://mbs.ice.infomaniak.ch/mbs-64.aac",
@@ -2015,7 +2016,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:48Z"
+     "lastChecked": "2026-11-28T10:19:21Z"
     },
     {
      "url": "https://mbs.ice.infomaniak.ch/mbs-128.mp3",
@@ -2025,7 +2026,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:48Z"
+     "lastChecked": "2026-11-28T10:19:20Z"
     }
    ]
   },
@@ -2052,7 +2053,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:57Z"
+     "lastChecked": "2026-11-28T10:19:29Z"
     }
    ]
   },
@@ -2079,7 +2080,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:48Z"
+     "lastChecked": "2026-11-28T10:19:21Z"
     }
    ]
   },
@@ -2106,7 +2107,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:49Z"
+     "lastChecked": "2026-11-28T10:19:21Z"
     }
    ]
   },
@@ -2133,7 +2134,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:48Z"
+     "lastChecked": "2026-11-28T10:19:21Z"
     }
    ]
   },
@@ -2160,7 +2161,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:48Z"
+     "lastChecked": "2026-11-28T10:19:21Z"
     },
     {
      "url": "http://dreamsiteradiocp2.com:8110/stream",
@@ -2170,7 +2171,7 @@
      "format": "icecast",
      "quality": "eco",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:48Z"
+     "lastChecked": "2026-11-28T10:19:21Z"
     }
    ]
   },
@@ -2197,7 +2198,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:49Z"
+     "lastChecked": "2026-11-28T10:19:22Z"
     }
    ]
   },
@@ -2225,7 +2226,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:48Z"
+     "lastChecked": "2026-11-28T10:19:21Z"
     }
    ]
   },
@@ -2252,7 +2253,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:48Z"
+     "lastChecked": "2026-11-28T10:19:21Z"
     }
    ]
   },
@@ -2280,7 +2281,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:48Z"
+     "lastChecked": "2026-11-28T10:19:21Z"
     }
    ]
   },
@@ -2324,7 +2325,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:49Z"
+     "lastChecked": "2026-11-28T10:19:21Z"
     }
    ]
   },
@@ -2351,7 +2352,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:49Z"
+     "lastChecked": "2026-11-28T10:19:22Z"
     }
    ]
   },
@@ -2379,7 +2380,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:49Z"
+     "lastChecked": "2026-11-28T10:19:22Z"
     }
    ]
   },
@@ -2407,7 +2408,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:49Z"
+     "lastChecked": "2026-11-28T10:19:22Z"
     }
    ]
   },
@@ -2434,7 +2435,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:49Z"
+     "lastChecked": "2026-11-28T10:19:22Z"
     }
    ]
   },
@@ -2462,7 +2463,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:49Z"
+     "lastChecked": "2026-11-28T10:19:22Z"
     }
    ]
   },
@@ -2506,7 +2507,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:49Z"
+     "lastChecked": "2026-11-28T10:19:23Z"
     }
    ]
   },
@@ -2533,7 +2534,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:49Z"
+     "lastChecked": "2026-11-28T10:19:22Z"
     }
    ]
   },
@@ -2560,7 +2561,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:49Z"
+     "lastChecked": "2026-11-28T10:19:22Z"
     }
    ]
   },
@@ -2604,7 +2605,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:50Z"
+     "lastChecked": "2026-11-28T10:19:23Z"
     }
    ]
   },
@@ -2631,7 +2632,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:50Z"
+     "lastChecked": "2026-11-28T10:19:23Z"
     }
    ]
   },
@@ -2659,7 +2660,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:49Z"
+     "lastChecked": "2026-11-28T10:19:23Z"
     }
    ]
   },
@@ -2703,7 +2704,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:49Z"
+     "lastChecked": "2026-11-28T10:19:23Z"
     }
    ]
   },
@@ -2730,7 +2731,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:50Z"
+     "lastChecked": "2026-11-28T10:19:23Z"
     },
     {
      "url": "https://n12a-eu.rcs.revma.com/dapwbz2befcwv",
@@ -2740,7 +2741,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:50Z"
+     "lastChecked": "2026-11-28T10:19:32Z"
     }
    ]
   },
@@ -2768,7 +2769,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:49Z"
+     "lastChecked": "2026-11-28T10:19:23Z"
     }
    ]
   },
@@ -2796,7 +2797,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:50Z"
+     "lastChecked": "2026-11-28T10:19:23Z"
     }
    ]
   },
@@ -2824,7 +2825,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:50Z"
+     "lastChecked": "2026-11-28T10:19:24Z"
     }
    ]
   },
@@ -2868,7 +2869,7 @@
      "format": "http",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:50Z"
+     "lastChecked": "2026-11-28T10:19:24Z"
     }
    ]
   },
@@ -2896,7 +2897,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:51Z"
+     "lastChecked": "2026-11-28T10:19:25Z"
     }
    ]
   },
@@ -2940,7 +2941,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:50Z"
+     "lastChecked": "2026-11-28T10:19:24Z"
     },
     {
      "url": "https://ouifm6.ice.infomaniak.ch/ouifm6-128.mp3",
@@ -2950,7 +2951,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:50Z"
+     "lastChecked": "2026-11-28T10:19:24Z"
     }
    ]
   },
@@ -2977,7 +2978,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:51Z"
+     "lastChecked": "2026-11-28T10:19:25Z"
     },
     {
      "url": "https://radioespace.ice.infomaniak.ch/radioespace-high.aac",
@@ -2987,7 +2988,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:51Z"
+     "lastChecked": "2026-11-28T10:19:25Z"
     }
    ]
   },
@@ -3014,7 +3015,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:50Z"
+     "lastChecked": "2026-11-28T10:19:24Z"
     }
    ]
   },
@@ -3041,7 +3042,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:50Z"
+     "lastChecked": "2026-11-28T10:19:24Z"
     },
     {
      "url": "https://stream.rcs.revma.com/b774g1gqh6bwv",
@@ -3051,7 +3052,7 @@
      "format": "http",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:55Z"
+     "lastChecked": "2026-11-28T10:19:29Z"
     }
    ]
   },
@@ -3079,7 +3080,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:52Z"
+     "lastChecked": "2026-11-28T10:19:26Z"
     }
    ]
   },
@@ -3122,7 +3123,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:51Z"
+     "lastChecked": "2026-11-28T10:19:26Z"
     }
    ]
   },
@@ -3149,7 +3150,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:51Z"
+     "lastChecked": "2026-11-28T10:19:26Z"
     }
    ]
   },
@@ -3177,7 +3178,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:52Z"
+     "lastChecked": "2026-11-28T10:19:26Z"
     }
    ]
   },
@@ -3204,7 +3205,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:52Z"
+     "lastChecked": "2026-11-28T10:19:27Z"
     }
    ]
   },
@@ -3247,7 +3248,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:52Z"
+     "lastChecked": "2026-11-28T10:19:27Z"
     },
     {
      "url": "https://listen.radioking.com/radio/1906/stream/6029",
@@ -3257,7 +3258,7 @@
      "format": "icecast",
      "quality": "std",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:52Z"
+     "lastChecked": "2026-11-28T10:19:27Z"
     }
    ]
   },
@@ -3302,7 +3303,7 @@
      "format": "icecast",
      "quality": "max",
      "ok": true,
-     "lastChecked": "2026-11-27T10:48:53Z"
+     "lastChecked": "2026-11-28T10:19:28Z"
     }
    ]
   }
